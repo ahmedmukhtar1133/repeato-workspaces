@@ -1,0 +1,31 @@
+{
+  "id": "8e214469-3a53-ba68-c3c7-64d869fd06fe",
+  "version": 15,
+  "testBatches": [
+    {
+      "id": "0",
+      "title": "Default Test Batch",
+      "tests": [],
+      "exceptionHandlers": []
+    }
+  ],
+  "folders": {
+    "id": "ROOT_TREE_NODE_ID",
+    "title": "All tests",
+    "expanded": true,
+    "children": [
+      "7c1d42a7-4ccf-f898-5011-8d8f015cacaf",
+      {
+        "id": "default-node",
+        "title": "Recorded tests",
+        "expanded": true,
+        "children": [
+          "5f1b27f4-a2e7-431b-79ff-b623f1ea5a32"
+        ]
+      }
+    ]
+  },
+  "schedules": [],
+  "advancedConfig": "",
+  "tags": []
+}

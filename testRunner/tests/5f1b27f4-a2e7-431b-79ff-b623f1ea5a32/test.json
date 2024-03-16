@@ -1,0 +1,237 @@
+{
+    "version": 6,
+    "id": "5f1b27f4-a2e7-431b-79ff-b623f1ea5a32",
+    "title": "RecordedOnPixel3AOnly",
+    "description": "This test was only recorded on pixel 3A for e2e test cases.",
+    "steps": [
+        {
+            "id": "44909c4d-9a2d-79a6-9abe-454223d4a4d9",
+            "type": "startApp",
+            "optional": false,
+            "createdOn": 1682431791633,
+            "recordedOn": "EMULATOR32X1X12X0",
+            "packageName": "com.iotecksolutions.todoapp",
+            "activityName": ".MainActivity",
+            "deleteAppData": false,
+            "grantPermissions": [],
+            "allPermissions": [],
+            "grantIosPermissions": [],
+            "allIosPermissions": [],
+            "os": "Android",
+            "iosBundleId": "",
+            "params": ""
+        },
+        {
+            "id": "deb27622-b96d-3145-68aa-3dbf5c460d59",
+            "originalFrame": "eb3b106d-1b9b-7860-83b9-9244d508b325_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1682431791581,
+            "recordedOn": "EMULATOR32X1X12X0",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.41962962962962963,
+                "y": 0.31124999999999997,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "3142a8af-d7d1-333a-8096-47f0d2172463_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.41944444444444445,
+                        "y": 0.3108108108108108
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999998651149345
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.47962962962962963,
+                "y": 0.33125
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false
+        },
+        {
+            "id": "70d1a68b-2b6b-1398-f045-2922a79255e7",
+            "originalFrame": "70077cea-320e-b94b-01a2-0b477f894994_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1682431794713,
+            "recordedOn": "EMULATOR32X1X12X0",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.7450925925925926,
+                "y": 0.5654166666666667,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "fa714821-74e9-66a2-0c2f-a46288ee1c27_template.png",
+            "offset": {
+                "x": 1.1102230246251565e-16,
+                "y": 0
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.7444444444444445,
+                        "y": 0.5653153153153153
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.8050925925925926,
+                "y": 0.5854166666666667
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false
+        },
+        {
+            "id": "e3d787a3-3656-6f65-a3de-62b9e19fd9f1",
+            "type": "waitForDuration",
+            "optional": false,
+            "createdOn": 1682431801244,
+            "recordedOn": "",
+            "duration": 1000
+        },
+        {
+            "id": "0f9421b4-2cee-5f12-c27e-0b9e2c587fec",
+            "type": "drag",
+            "optional": false,
+            "createdOn": 1682431801299,
+            "recordedOn": "EMULATOR32X1X12X0",
+            "matchIndex": 0,
+            "matches": [],
+            "mouseMoveCoordinates": [
+                {
+                    "x": 0.5053240740740741,
+                    "y": 0.33541666666666664
+                },
+                {
+                    "x": 0.5053240740740741,
+                    "y": 0.33541666666666664
+                },
+                {
+                    "x": 0.5053240740740741,
+                    "y": 0.5645833333333333
+                },
+                {
+                    "x": 0.5096064814814815,
+                    "y": 0.6520833333333333
+                },
+                {
+                    "x": 0.5138888888888888,
+                    "y": 0.65625
+                },
+                {
+                    "x": 0.5138888888888888,
+                    "y": 0.65625
+                }
+            ],
+            "longClick": false,
+            "scrollRegion": {
+                "x": 0,
+                "y": 0.8454954954954955,
+                "width": 0.9981481481481481,
+                "height": 0.09414414414414414
+            },
+            "startPositionSource": {
+                "type": "xy",
+                "point": {
+                    "x": 0.5053240740740741,
+                    "y": 0.33541666666666664
+                }
+            },
+            "endPositionSource": {
+                "type": "xy",
+                "point": {
+                    "x": 0.5138888888888888,
+                    "y": 0.65625
+                }
+            },
+            "dragType": "DragAndDrop",
+            "repeatDrag": false,
+            "stopOnFingerprintFound": false
+        },
+        {
+            "id": "41f7341a-d59d-0fb0-b449-7c7278e8c58c",
+            "type": "drag",
+            "optional": false,
+            "createdOn": 1682431805537,
+            "recordedOn": "EMULATOR32X1X12X0",
+            "matchIndex": 0,
+            "matches": [],
+            "mouseMoveCoordinates": [
+                {
+                    "x": 0.8864583333333333,
+                    "y": 0.5833333333333334
+                },
+                {
+                    "x": 0.8008101851851852,
+                    "y": 0.5479166666666667
+                },
+                {
+                    "x": 0.4025462962962963,
+                    "y": 0.38333333333333336
+                },
+                {
+                    "x": 0.38969907407407406,
+                    "y": 0.375
+                }
+            ],
+            "longClick": false,
+            "startPositionSource": {
+                "type": "xy",
+                "point": {
+                    "x": 0.8864583333333333,
+                    "y": 0.5833333333333334
+                }
+            },
+            "endPositionSource": {
+                "type": "xy",
+                "point": {
+                    "x": 0.38969907407407406,
+                    "y": 0.375
+                }
+            },
+            "dragType": "DragAndDrop",
+            "repeatDrag": false,
+            "stopOnFingerprintFound": false
+        }
+    ],
+    "devices": [
+        {
+            "os": "Android",
+            "abi": "arm64-v8a",
+            "sdk": "29",
+            "osVersion": "10",
+            "size": "1080x2220",
+            "serial": "EMULATOR32X1X12X0",
+            "deviceId": "emulator-5554",
+            "name": "Android SDK built for arm64",
+            "brand": "google",
+            "currentRotation": "ROTATION_0",
+            "rotationVars": {
+                "portrait": "ROTATION_0",
+                "landscape": "ROTATION_90",
+                "upsideDown": "ROTATION_180",
+                "seascape": "ROTATION_270"
+            },
+            "isSimulator": true
+        }
+    ],
+    "createdOn": 1682431768936,
+    "changedOn": 1682431866829,
+    "isWorkingCopy": false,
+    "testRuns": [],
+    "testRunExports": []
+}

@@ -1,0 +1,208 @@
+{
+    "version": 6,
+    "id": "27ec24ea-6f21-2f92-555a-b3c9b5ee4bd1",
+    "title": "2Devices-1.4",
+    "description": "",
+    "steps": [
+        {
+            "id": "700d2553-6d2a-d29d-ce8b-a0cdc222d5c3",
+            "type": "startApp",
+            "optional": false,
+            "createdOn": 1698692352860,
+            "recordedOn": "EMULATOR32X1X12X0",
+            "packageName": "com.android.chrome",
+            "activityName": "org.chromium.chrome.browser.ChromeTabbedActivity",
+            "deleteAppData": false,
+            "grantPermissions": [
+                "ACCESS_COARSE_LOCATION",
+                "ACCESS_FINE_LOCATION",
+                "CAMERA",
+                "GET_ACCOUNTS",
+                "READ_CONTACTS",
+                "READ_EXTERNAL_STORAGE",
+                "RECORD_AUDIO",
+                "WRITE_EXTERNAL_STORAGE"
+            ],
+            "allPermissions": [
+                "ACCESS_COARSE_LOCATION",
+                "ACCESS_FINE_LOCATION",
+                "CAMERA",
+                "GET_ACCOUNTS",
+                "READ_CONTACTS",
+                "READ_EXTERNAL_STORAGE",
+                "RECORD_AUDIO",
+                "WRITE_EXTERNAL_STORAGE"
+            ],
+            "grantIosPermissions": [],
+            "allIosPermissions": [],
+            "os": "Android",
+            "iosBundleId": "",
+            "params": ""
+        },
+        {
+            "id": "a82c8d47-4529-8a08-6681-7fa740332521",
+            "type": "switchDevice",
+            "optional": false,
+            "createdOn": 1698692357164,
+            "recordedOn": "",
+            "deviceId": "emulator-5556",
+            "deviceName": "sdk_gphone_arm64"
+        },
+        {
+            "id": "ad814a13-1ea1-54d8-211c-7717edb002ee",
+            "originalFrame": "6734fce9-9a70-81c2-d6db-f4e52f2c735a_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1698692360504,
+            "recordedOn": "EMULATOR32X1X12X0",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.637339246119734,
+                "y": 0.7715742793791573,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "9b1f476f-7e3c-f823-8790-cfea50f79930_template.png",
+            "offset": {
+                "x": 1.1102230246251565e-16,
+                "y": 0
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.6370370370370371,
+                        "y": 0.7711711711711712
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.697339246119734,
+                "y": 0.7915742793791574
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "0b578b8b-f0af-4a06-d31e-f572b9ef675a",
+            "type": "switchDevice",
+            "optional": false,
+            "createdOn": 1698692364626,
+            "recordedOn": "",
+            "deviceId": "emulator-5554",
+            "deviceName": "Android SDK built for arm64"
+        },
+        {
+            "id": "62b9227b-cf6e-128d-11e9-2dffbf371103",
+            "originalFrame": "49c53005-c33e-be60-66bf-88f3064dc293_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1698692366484,
+            "recordedOn": "EMULATOR32X1X12X0",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.45958610495195856,
+                "y": 0.3502882483370288,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "a9f51e32-387d-1553-9173-aabf339883ff_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.45925925925925926,
+                        "y": 0.35
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999999041237402
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.5195861049519586,
+                "y": 0.37028824833702884
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "69c5b7d4-7304-57d5-8211-afb78c6ce1c3",
+            "type": "switchDevice",
+            "optional": false,
+            "createdOn": 1698692369879,
+            "recordedOn": "",
+            "deviceId": "emulator-5556",
+            "deviceName": "sdk_gphone_arm64"
+        },
+        {
+            "id": "0e6689c2-52fa-95ba-8f52-c37e46ecef63",
+            "originalFrame": "df0a7c1b-b089-19b2-9c01-745387ef2954_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1698692371871,
+            "recordedOn": "EMULATOR32X1X12X0",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.3501995565410199,
+                "y": 0.6540576496674056,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "bba6831d-bfa7-d900-0f16-887df5225add_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.35,
+                        "y": 0.654054054054054
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.999999952834699
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.4101995565410199,
+                "y": 0.6740576496674057
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        }
+    ],
+    "devices": [
+        {
+            "os": "Android",
+            "abi": "arm64-v8a",
+            "sdk": "29",
+            "osVersion": "10",
+            "size": "1080x2220",
+            "serial": "EMULATOR32X1X12X0",
+            "deviceId": "emulator-5554",
+            "name": "Android SDK built for arm64",
+            "brand": "google",
+            "currentRotation": "ROTATION_0",
+            "rotationVars": {
+                "portrait": "ROTATION_0",
+                "landscape": "ROTATION_90",
+                "upsideDown": "ROTATION_180",
+                "seascape": "ROTATION_270"
+            },
+            "isSimulator": true
+        }
+    ],
+    "createdOn": 1698692349798,
+    "changedOn": 1698692419785,
+    "isWorkingCopy": false,
+    "testRuns": [],
+    "testRunExports": []
+}

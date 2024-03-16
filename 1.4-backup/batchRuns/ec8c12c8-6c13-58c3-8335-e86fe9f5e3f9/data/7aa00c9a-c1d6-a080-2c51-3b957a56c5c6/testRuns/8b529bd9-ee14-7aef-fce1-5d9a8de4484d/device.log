@@ -1,0 +1,284 @@
+- waiting for device -
+Quit with code null
+Error from getpwuid_r: 102 (Operation not supported on socket)
+Filtering the log data using "composedMessage CONTAINS "RepeatoCapture" OR composedMessage CONTAINS "Runner""
+Timestamp                       Thread     Type        Activity             PID    TTL  
+2023-09-20 23:46:52.490134+0500 0x2b5e41   Debug       0x0                  18419  0    SpringBoard: (SplashBoard) [com.apple.SplashBoard:FetchRequests] [<XBApplicationSnapshotManifestImpl: 0x60000299ff00> [com.iotecksolutions.todoApp]] BEGIN snapshotsForGroupIDs:fetchRequest: groupIDs: (
+    "sceneID:com.iotecksolutions.todoApp-default",
+    "com.iotecksolutions.todoApp - {DEFAULT GROUP}"
+); fetchRequest: <XBApplicationSnapshotFetchRequest: 0x6000006c4e00> {
+    predicate = <XBApplicationSnapshotPredicate: 0x6000005b27c0> {
+        requiredOSVersion = 16.4;
+        contentTypeMask = StaticDefault, GeneratedDefault;
+        statusBarStateMask = All;
+        size = {414, 896};
+        userInterfaceStyle = 1;
+    };
+    sortDescriptors = (
+    "<XBApplicationSnapshotSortDescriptor: 0x6000006c5880> {\n    key = XBApplicationSnapshotNameKey;\n    ascending = YES;\n}",
+    "<XBApplicationSnapshotSortDescriptor: 0x6000006c42c0> {\n    key = XBApplicationSnapshotSchemeKey;\n    ascending = YES;\n}",
+    "<XBApplicationSnapshotSortDescriptor: 0x6000006c4240> {\n    key = XBApplicationSnapshotInterfaceOrientationMaskKey;\n    ascending = YES;\n}",
+    "<XBApplicationSnapshotSortDescriptor: 0x6000006c4e40> {\n    key = XBApplicationSnapshotUserInterfaceStyleKey;\n    ascending = YES;\n}",
+    "<XBApplicationSnapshotSortDescriptor: 0x6000006c5860> {\n    key = XBApplicationSnapshotStatusBarSettingsKey;\n    ascending = YES;\n}",
+    "<XBApplicationSnapshotSortDescriptor: 0x6000006c4140> {\n    key = XBApplicationSnapshotContentTypeMaskKey;\n    ascending = YES;\n}",
+    "<XBApplicationSnapshotSortDescriptor: 0x6000006c4200> {\n    key = XBApplicationSnapshotImageScaleKey;\n    ascending = YES;\n}",
+    "<XBApplicationSnapshotSortDescriptor: 0x6000006c58a0> {\n    key = XBApplicationSnapshotReferenceSizeKey;\n    ascending = YES;\n}",
+    "<XBApplicationSnapshotSortDescriptor: 0x6000006c4080> {\n    key = XBApplicationSnapshotProtectedContentKey;\n    ascending = YES;\n}",
+    "<XBApplicationSnapshotSortDescriptor: 0x6000006c4d80> {\n    key = XBApplicationSnapshotCreationDateKey;\n    ascending = YES;\n}",
+    "<XBApplicationSnapshotSortDescriptor: 0x6000006c4220> {\n    key = XBApplicationSnapshotRequiredOSVersionKey;\n    ascending = YES;\n}"
+);
+    fallbackGenerationContext = <XBApplicationSnapshotGenerationContext: 0x6000006c47a0> {
+        applicationCompatibilityInfo = <XBApplicationLaunchCompatibilityInfo: 0x60000242b7f0; bundleIdentifier: com.iotecksolutions.todoApp; bundlePath: /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app; sandboxPath: /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0; launchInterfaces: (
+    "<XBLaunchInterface: 0x6000012ce100; name: LaunchScreen; identifier: __from_UILaunchStoryboardName__; configuration: 0x0; type: Storyboard; urlSchemes: 0x0; default: YES>"
+); launchesOpaque: YES>;
+        launchRequest = <XBLaunchStateRequest: 0x600002cd4d20; groupID: com.iotecksolutions.todoApp - {DEFAULT GROUP}; statusBar: normal; refSize: {414, 896}; orientation: Portrait; userInterfaceStyle: Light>;
+        timeout = 2.000000;
+    };
+}
+2023-09-20 23:46:52.500880+0500 0x2bfa4a   Info        0x31b89b             18421  0    runningboardd: (RunningBoard) [com.apple.runningboard:general] _executablePath = /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Runner
+2023-09-20 23:46:52.504796+0500 0x2bfa47   Debug       0x0                  18419  0    SpringBoard: (BaseBoard) [com.apple.BaseBoard:MachPort]  *|machport|* <BSMachPortTaskNameRight: 0x600001dc8dc0; usable: YES; (18419:1a713:send task_name_for_pid:Runner.21585)> -> (<NSThread: 0x600001db2480>{number = 104, name = (null)}) (
+	0   BaseBoard                           0x000000018324eaac -[BSMachPortRight _initWithPort:type:owner:trace:] + 192
+	1   BaseBoard                           0x0000000183250a4c -[BSMachPortTaskNameRight initWithPID:] + 260
+	2   BaseBoard                           0x00000001832508f4 +[BSMachPortTaskNameRight taskNameForPID:] + 56
+	3   BaseBoard                           0x000000018325d25c -[BSProcessHandle _initWithAuditToken:bundleID:] + 184
+	4   BaseBoard                           0x000000018325db7c +[BSProcessHandle processHandleForAuditToken:bundleID:] + 60
+	5   FrontBoard                          0x000000018a38f974 -[FBProcess _configureIntrinsicsFromHandle:] + 268
+	6   FrontBoard                          0x000000018a38f254 -[FBProcess _bootstrapAndExec] + 1328
+	7   FrontBoard                          0x000000018a38dcb4 -[F
+2023-09-20 23:46:52.524378+0500 0x2bfa57   Debug       0x0                  18443  0    CoreSimulatorBridge: (BaseBoard) [com.apple.BaseBoard:MachPort]  *|machport|* <BSMachPortTaskNameRight: 0x600001f68100; usable: YES; (18443:2523:send xpcCode) from (18419:1a713:send task_name_for_pid:Runner.21585)> -> (<NSThread: 0x600001f68380>{number = 7, name = (null)}) (
+	0   BaseBoard                           0x000000018324eaac -[BSMachPortRight _initWithPort:type:owner:trace:] + 192
+	1   BaseBoard                           0x000000018324f4c0 -[BSMachPortRight initWithXPCDictionary:] + 164
+	2   BaseBoard                           0x0000000183250d44 -[BSMachPortTaskNameRight initWithXPCDictionary:] + 56
+	3   BaseBoard                           0x00000001832242a4 BSCreateDeserializedBSXPCEncodableObjectFromXPCDictionary + 148
+	4   BaseBoard                           0x00000001832241cc BSCreateDeserializedBSXPCEncodableObjectFromXPCDictionaryWithKey + 56
+	5   BaseBoard                           0x000000018325e21c -[BSProcessHandle initWithXPCDictionary:] + 212
+	6   BaseBoard                           0x0000000183289bec _BSXPCDecodeObject + 1508
+	7   BaseBoard
+2023-09-20 23:46:52.524633+0500 0x2bfa57   Default     0x0                  18443  0    CoreSimulatorBridge: (FrontBoardServices) [com.apple.FrontBoard:Common] [FBSSystemService][0x7533] Request successful: <BSProcessHandle: 0x600000447e70; Runner:21585; valid: YES>
+2023-09-20 23:46:52.525030+0500 0x2bfa57   Debug       0x0                  18443  0    CoreSimulatorBridge: (BaseBoard) [com.apple.BaseBoard:MachPort]  *|machport|* invalidate <BSMachPortTaskNameRight:0x600001f68100 usable=YES (18443:2523:send xpcCode) from (18419:1a713:send task_name_for_pid:Runner.21585)> -> (<NSThread: 0x600001f68380>{number = 7, name = (null)}) (
+	0   BaseBoard                           0x000000018324f218 -[BSMachPortRight _lock_invalidateForOwner:] + 288
+	1   BaseBoard                           0x000000018324f2fc -[BSMachPortRight invalidate] + 56
+	2   BaseBoard                           0x000000018325dd50 -[BSProcessHandle dealloc] + 28
+	3   libobjc.A.dylib                     0x000000018004f010 _ZN19AutoreleasePoolPage12releaseUntilEPP11objc_object + 200
+	4   libobjc.A.dylib                     0x000000018004ee20 objc_autoreleasePoolPop + 252
+	5   BoardServices                       0x0000000184a53fd4 BSXPCServiceConnectionExecuteCallOut + 240
+	6   BoardServices                       0x0000000184a24cac __80+[BSXPCServiceConnectionProxy createImplementationOfProtocol:forClass:withName:]_block_invoke.100 + 152
+	7   BoardServices
+2023-09-20 23:46:52.550244+0500 0x2bfa53   Info        0x31b31b             18419  0    SpringBoard: (CoreServices) [com.apple.launchservices:privacy] constructing bundle record for file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/
+2023-09-20 23:46:52.605025+0500 0x2bfa54   Info        0x0                  18419  0    SpringBoard: (CoreServices) [com.apple.launchservices:privacy] constructing bundle record for file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/
+2023-09-20 23:46:52.614492+0500 0x2bfa53   Info        0x31b31b             18419  0    SpringBoard: (CoreServices) [com.apple.launchservices:privacy] constructing bundle record for file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/
+2023-09-20 23:46:52.619255+0500 0x2bfa53   Info        0x31b31b             18419  0    SpringBoard: (CoreServices) [com.apple.launchservices:privacy] constructing bundle record for file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/
+2023-09-20 23:46:52.620909+0500 0x2bfa53   Info        0x31b31b             18419  0    SpringBoard: (CoreServices) [com.apple.launchservices:privacy] constructing bundle record for file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/
+2023-09-20 23:46:52.624219+0500 0x2bfa53   Info        0x31b31b             18419  0    SpringBoard: (CoreServices) [com.apple.launchservices:privacy] constructing bundle record for file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/
+2023-09-20 23:46:52.624709+0500 0x2bfa53   Info        0x31b31b             18419  0    SpringBoard: (CoreServices) [com.apple.launchservices:privacy] constructing bundle record for file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/
+2023-09-20 23:46:52.627790+0500 0x2bfa53   Info        0x31b31b             18419  0    SpringBoard: (CoreServices) [com.apple.launchservices:privacy] constructing bundle record for file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/
+2023-09-20 23:46:52.924726+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: Launch arguments
+2023-09-20 23:46:52.925779+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:loading] main bundle CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded) getting handle 0xfffffffffffffffb
+2023-09-20 23:46:52.928054+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.iotecksolutions.todoApp, user: mobile, kCFPreferencesCurrentHost, /Library/Managed Preferences/mobile/com.iotecksolutions.todoApp.plist, managed: 1 } (0x600000f15b00)
+2023-09-20 23:46:52.928251+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.iotecksolutions.todoApp, user: kCFPreferencesAnyUser, kCFPreferencesCurrentHost, /Library/Managed Preferences/com.iotecksolutions.todoApp.plist, managed: 1 } (0x600000f15b00)
+2023-09-20 23:46:52.928865+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.iotecksolutions.todoApp, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/com.iotecksolutions.todoApp.plist, managed: 0 } (0x600000c09b80)
+2023-09-20 23:46:52.928983+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { kCFPreferencesAnyApplication, user: mobile, kCFPreferencesCurrentHost, /Library/Managed Preferences/mobile/.GlobalPreferences.plist, managed: 1 } (0x600000f08000)
+2023-09-20 23:46:52.929090+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.iotecksolutions.todoApp, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.iotecksolutions.todoApp.plist, managed: 0 } (0x600000c11900)
+2023-09-20 23:46:52.929254+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { kCFPreferencesAnyApplication, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/.GlobalPreferences.plist, managed: 0 } (0x600000c0d360)
+2023-09-20 23:46:52.929371+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { kCFPreferencesAnyApplication, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/.GlobalPreferences.plist, managed: 0 } (0x600000c00000)
+2023-09-20 23:46:52.929389+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) read data for { kCFPreferencesAnyApplication, mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/.GlobalPreferences.plist, managed: 0 }, backed by /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/.GlobalPreferences.plist
+2023-09-20 23:46:52.929540+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.iotecksolutions.todoApp, user: mobile, kCFPreferencesCurrentHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/ByHost/com.iotecksolutions.todoApp..plist, managed: 0 } (0x600000c0d360)
+2023-09-20 23:46:52.929637+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { kCFPreferencesAnyApplication, user: mobile, kCFPreferencesCurrentHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/ByHost/.GlobalPreferences..plist, managed: 0 } (0x600000c0d360)
+2023-09-20 23:46:52.935003+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: Host-address: localhost
+2023-09-20 23:46:52.935279+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: Start capture at 'localhost' with scaleUpFactor 2.00...
+2023-09-20 23:46:52.935351+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: Trying to connect to localhost
+2023-09-20 23:46:52.935956+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.UIKit, user: mobile, kCFPreferencesCurrentHost, /Library/Managed Preferences/mobile/com.apple.UIKit.plist, managed: 1 } (0x600000f08120)
+2023-09-20 23:46:52.936107+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.UIKit, user: kCFPreferencesAnyUser, kCFPreferencesCurrentHost, /Library/Managed Preferences/com.apple.UIKit.plist, managed: 1 } (0x600000f08120)
+2023-09-20 23:46:52.936244+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.UIKit, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/com.apple.UIKit.plist, managed: 0 } (0x600000c09b80)
+2023-09-20 23:46:52.936485+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.UIKit, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.apple.UIKit.plist, managed: 0 } (0x600000c019a0)
+2023-09-20 23:46:52.936598+0500 0x2bf20f   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.UIKit, user: mobile, kCFPreferencesCurrentHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/ByHost/com.apple.UIKit..plist, managed: 0 } (0x600000c019a0)
+2023-09-20 23:46:52.945990+0500 0x2bfa51   Default     0x0                  18435  0    backboardd: (IOKit) [com.apple.iohid:default] Connection added: IOHIDEventSystemConnection uuid:B0344087-2A3E-4099-99A8-70D4EFB8E450 pid:21585 process:Runner type:Passive entitlements:0x0 caller:BackBoardServices: ___getHIDEventSystemClient_block_invoke + 276 attributes:{
+    HighFrequency = 0;
+    bundleID = "com.iotecksolutions.todoApp";
+    pid = 21585;
+} state:0x0 events:0 mask:0x0 dropped:0 dropStatus:0 droppedMask:0x0 lastDroppedTime:NONE
+2023-09-20 23:46:52.946704+0500 0x2bfa47   Debug       0x0                  18419  0    SpringBoard: (BaseBoard) [com.apple.BaseBoard:MachPort]  *|machport|* <BSMachPortTaskNameRight: 0x600001df0f80; usable: YES; (18419:1a713:send task_name_for_pid:Runner.21585)> -> (<NSThread: 0x600001db2480>{number = 104, name = (null)}) (
+	0   BaseBoard                           0x000000018324eaac -[BSMachPortRight _initWithPort:type:owner:trace:] + 192
+	1   BaseBoard                           0x0000000183250a4c -[BSMachPortTaskNameRight initWithPID:] + 260
+	2   BaseBoard                           0x00000001832508f4 +[BSMachPortTaskNameRight taskNameForPID:] + 56
+	3   BaseBoard                           0x000000018325d508 +[BSProcessHandle processHandleForXPCConnection:] + 176
+	4   BoardServices                       0x0000000184a2e660 +[BSXPCServiceConnectionPeer peerOfConnection:] + 316
+	5   BoardServices                       0x0000000184a502a4 +[BSXPCServiceConnection _connectionWithXPCConnection:endpointDescription:] + 48
+	6   BoardServices                       0x0000000184a44930 __51-[BSXPCServiceConnectionListener activateSuspended]_block_invoke + 448
+	7
+2023-09-20 23:46:52.946118+0500 0x2bfa51   Debug       0x0                  18435  0    backboardd: (BackBoardHIDEventFoundation) [com.apple.BackBoard:HID] Got a client addition callback: IOHIDEventSystemConnection uuid:B0344087-2A3E-4099-99A8-70D4EFB8E450 pid:21585 process:Runner type:Passive entitlements:0x0 caller:BackBoardServices: ___getHIDEventSystemClient_block_invoke + 276 attributes:{
+    HighFrequency = 0;
+    bundleID = "com.iotecksolutions.todoApp";
+    pid = 21585;
+} state:0x0 events:0 mask:0x0 dropped:0 dropStatus:0 droppedMask:0x0 lastDroppedTime:NONE
+2023-09-20 23:46:52.946221+0500 0x2bfa51   Info        0x0                  18435  0    backboardd: (BackBoardHIDEventFoundation) [com.apple.BackBoard:HID] HID connection vpid:21585(v72050) bundleID:com.iotecksolutions.todoApp successfully initialized: IOHIDEventSystemConnection uuid:B0344087-2A3E-4099-99A8-70D4EFB8E450 pid:21585 process:Runner type:Passive entitlements:0x0 caller:BackBoardServices: ___getHIDEventSystemClient_block_invoke + 276 attributes:{
+    HighFrequency = 0;
+    bundleID = "com.iotecksolutions.todoApp";
+    pid = 21585;
+} state:0x0 events:0 mask:0x0 dropped:0 dropStatus:0 droppedMask:0x0 lastDroppedTime:NONE
+2023-09-20 23:46:52.946394+0500 0x2bfa51   Default     0x0                  18435  0    backboardd: (BackBoardHIDEventFoundation) [com.apple.BackBoard:HID] Adding client connection: <BKHIDClientConnection: 0x600003038000; IOHIDEventSystemConnectionRef: 0x15fd09090; vpid: 21585(v72050); taskPort: 0xBF37; bundleID: com.iotecksolutions.todoApp> for client: IOHIDEventSystemConnection uuid:B0344087-2A3E-4099-99A8-70D4EFB8E450 pid:21585 process:Runner type:Passive entitlements:0x0 caller:BackBoardServices: ___getHIDEventSystemClient_block_invoke + 276 attributes:{
+    HighFrequency = 0;
+    bundleID = "com.iotecksolutions.todoApp";
+    pid = 21585;
+} state:0x0 events:0 mask:0x0 dropped:0 dropStatus:0 droppedMask:0x0 lastDroppedTime:NONE
+2023-09-20 23:46:52.948335+0500 0x2bfa5c   Debug       0x0                  18435  0    backboardd: (IOKit) [com.apple.iohid:property] SetProperty called IOHIDEventSystemClientIsUnresponsive=0 caller=IOHIDEventSystemConnection uuid:B0344087-2A3E-4099-99A8-70D4EFB8E450 pid:21585 process:Runner type:Passive entitlements:0x0 caller:BackBoardServices: ___getHIDEventSystemClient_block_invoke + 276 attributes:{
+    HighFrequency = 0;
+    bundleID = "com.iotecksolutions.todoApp";
+    pid = 21585;
+} state:0x0 events:0 mask:0x0 dropped:0 dropStatus:0 droppedMask:0x0 lastDroppedTime:NONE
+2023-09-20 23:46:52.953158+0500 0x2bfa47   Default     0x0                  18419  0    SpringBoard: (FrontBoard) [com.apple.FrontBoard:ProcessWorkspace] received handshake : process=<FBApplicationProcess: 0x15ad71280; application<com.iotecksolutions.todoApp>:21585(v72050); taskState: Running; visibility: Foreground> remote=<BSProcessHandle: 0x6000009e1950; Runner:21585; valid: YES> remnants=0
+2023-09-20 23:46:52.957524+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Language lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Localizations : [Base, en]
+	Dev language  : en
+	User prefs    : [en]
+	Main bundle   : [<null>]
+	Allow mixed   : 0
+	Result        : [en]
+2023-09-20 23:46:52.957642+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : InfoPlist type: loctable
+	Result        : None
+2023-09-20 23:46:52.957660+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : InfoPlist type: strings
+	Result        : None
+2023-09-20 23:46:52.957672+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : InfoPlist type: stringsdict
+	Result        : None
+2023-09-20 23:46:52.958736+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.Accessibility, user: mobile, kCFPreferencesCurrentHost, /Library/Managed Preferences/mobile/com.apple.Accessibility.plist, managed: 1 } (0x600000f0c000)
+2023-09-20 23:46:52.958886+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.Accessibility, user: kCFPreferencesAnyUser, kCFPreferencesCurrentHost, /Library/Managed Preferences/com.apple.Accessibility.plist, managed: 1 } (0x600000f0c090)
+2023-09-20 23:46:52.958949+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.Accessibility, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.apple.Accessibility.plist, managed: 0 } (0x600000f1c120)
+2023-09-20 23:46:52.958967+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) read data for { com.apple.Accessibility, mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.apple.Accessibility.plist, managed: 0 }, backed by /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.apple.Accessibility.plist
+2023-09-20 23:46:52.959078+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.Accessibility, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.apple.Accessibility.plist, managed: 0 } (0x600000f1c120)
+2023-09-20 23:46:52.959092+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) read data for { com.apple.Accessibility, mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.apple.Accessibility.plist, managed: 0 }, backed by /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.apple.Accessibility.plist
+2023-09-20 23:46:52.959135+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.Accessibility, user: mobile, kCFPreferencesCurrentHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/ByHost/com.apple.Accessibility..plist, managed: 0 } (0x600000f18090)
+2023-09-20 23:46:52.962171+0500 0x2bfa53   Info        0x0                  18419  0    SpringBoard: (CoreServices) [com.apple.launchservices:privacy] constructing bundle record for file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/
+2023-09-20 23:46:52.967880+0500 0x2bea50   Debug       0x31bab7             18438  0    locationd: [com.apple.locationd.Core:Core] {"msg":"computing #clldu registrationResults", "dictionary":{
+    Authorization = 4;
+    AuthorizationUpgradeAvailable = 0;
+    BundleId = "com.iotecksolutions.todoApp";
+    BundlePath = "/Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app";
+    ConsumptionPeriodBegin = "703532838.4114569";
+    Executable = "";
+    InUseLevel = 5;
+    NextConsumptionThresholdScore = 0;
+    Registered = "";
+    SupportedAuthorizationMask = 5;
+}, "isSystemService":0, "bigSwitchEnabled":1, "overrideDeauthorization":0}
+2023-09-20 23:46:52.968583+0500 0x2bea50   Debug       0x31bab7             18438  0    locationd: [com.apple.locationd.Core:Core] {"msg":"computing #clldu freshAuthContext", "EffectiveRegistration":0, "TransientRegistration":0, "bigSwitchState":1, "isClientZonal":0, "location":'00 00 00 00 FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F0 BF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F0 BF 00 00 00 00 00 00 F0 BF 00 00 00 00 00 00 F0 BF 00 00 00 00 00 00 F0 BF 00 00 00 00 00 00 F0 BF 00 00 00 00 00 00 F0 BF 00 00 00 00 00 00 F0 BF 00 00 00 00 00 00 F0 BF 00 00 00 00 00 00 00 00 00 00 F0 BF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F0 BF FF FF FF 7F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00', "dictionary":{
+    Authorization = 4;
+    AuthorizationUpgradeAvailable = 0;
+    BundleId = "com.iotecksolutions.todoApp";
+    BundlePath = "/Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app";
+    ConsumptionPeriodBegin = "703532838.4114569";
+    Executable = "";
+    InUseLevel = 5;
+    NextConsumptionThresholdScore = 0;
+    Registered = "";
+    SupportedAuthorizationMask = 5;
+}}
+2023-09-20 23:46:52.972097+0500 0x2bfbb5   Default     0x0                  21585  0    Runner: RepeatoCapture: Connecting to localhost:1313...
+2023-09-20 23:46:52.974480+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : Main type: storyboardc
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Base.lproj/Main.storyboardc/
+2023-09-20 23:46:52.975901+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : Main type: storyboardc
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Base.lproj/Main.storyboardc/
+2023-09-20 23:46:52.976279+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : UIViewController-BYZ-38-t0r type: nib path: Main.storyboardc
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2023-09-20 23:46:52.979382+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:loading] dyld image path for pointer 0x10771b374 is /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Frameworks/Flutter.framework/Flutter
+2023-09-20 23:46:52.980491+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:loading] dlfcn check load bundle CFBundle 0x600000ebdb00 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Frameworks/Flutter.framework> (not loaded), dlopen of /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Frameworks/Flutter.framework/Flutter mode 0x115 getting handle 0xed0241
+2023-09-20 23:46:53.070046+0500 0x2bfbb5   Default     0x0                  21585  0    Runner: RepeatoCapture: Attempting connection to: localhost:1313
+2023-09-20 23:46:53.070548+0500 0x2bfbb5   Default     0x0                  21585  0    Runner: RepeatoCapture: Try #0
+2023-09-20 23:46:53.150295+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Language lookup at CFBundle 0x600000ebdb00 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Frameworks/Flutter.framework> (framework, loaded)
+	Localizations : [en]
+	Dev language  : en
+	User prefs    : [en]
+	Main bundle   : [en]
+	Allow mixed   : 0
+	Result        : [en]
+2023-09-20 23:46:53.150376+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ebdb00 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Frameworks/Flutter.framework> (framework, loaded)
+	Request       : icudtl type: dat
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Frameworks/Flutter.framework/icudtl.dat
+2023-09-20 23:46:53.150461+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : Frameworks/App.framework/flutter_assets type: 
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Frameworks/App.framework/flutter_assets/
+2023-09-20 23:46:53.151993+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.metal, user: mobile, kCFPreferencesCurrentHost, /Library/Managed Preferences/mobile/com.apple.metal.plist, managed: 1 } (0x600000f0d830)
+2023-09-20 23:46:53.152227+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.metal, user: kCFPreferencesAnyUser, kCFPreferencesCurrentHost, /Library/Managed Preferences/com.apple.metal.plist, managed: 1 } (0x600000f0d830)
+2023-09-20 23:46:53.152381+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.metal, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/com.apple.metal.plist, managed: 0 } (0x600000c0d360)
+2023-09-20 23:46:53.152470+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.metal, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.apple.metal.plist, managed: 0 } (0x600000c0d9a0)
+2023-09-20 23:46:53.152564+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.metal, user: mobile, kCFPreferencesCurrentHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/ByHost/com.apple.metal..plist, managed: 0 } (0x600000c0d9a0)
+2023-09-20 23:46:53.155873+0500 0x2bfbb5   Default     0x0                  21585  0    Runner: RepeatoCapture: Connected!
+2023-09-20 23:46:53.162051+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.Metal, user: mobile, kCFPreferencesCurrentHost, /Library/Managed Preferences/mobile/com.apple.Metal.plist, managed: 1 } (0x600000f1d320)
+2023-09-20 23:46:53.162164+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.Metal, user: kCFPreferencesAnyUser, kCFPreferencesCurrentHost, /Library/Managed Preferences/com.apple.Metal.plist, managed: 1 } (0x600000f1d320)
+2023-09-20 23:46:53.162288+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.Metal, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/com.apple.Metal.plist, managed: 0 } (0x600000c019a0)
+2023-09-20 23:46:53.162463+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.Metal, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.apple.Metal.plist, managed: 0 } (0x600000c0d720)
+2023-09-20 23:46:53.162634+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.Metal, user: mobile, kCFPreferencesCurrentHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/ByHost/com.apple.Metal..plist, managed: 0 } (0x600000c0d720)
+2023-09-20 23:46:53.177999+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : LaunchScreen type: storyboardc
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Base.lproj/LaunchScreen.storyboardc/
+2023-09-20 23:46:53.178290+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : LaunchScreen type: storyboardc
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Base.lproj/LaunchScreen.storyboardc/
+2023-09-20 23:46:53.178400+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : UIViewController-01J-lp-oVM type: nib path: LaunchScreen.storyboardc
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-09-20 23:46:53.178978+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : 01J-lp-oVM-view-Ze5-6b-2t3 type: nib path: LaunchScreen.storyboardc
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-09-20 23:46:53.179067+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : LaunchScreen type: storyboardc
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Base.lproj/LaunchScreen.storyboardc/
+2023-09-20 23:46:53.179139+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : 01J-lp-oVM-view-Ze5-6b-2t3 type: nib path: LaunchScreen.storyboardc
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-09-20 23:46:53.181223+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : Assets type: car
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Assets.car
+2023-09-20 23:46:53.181922+0500 0x2bfba8   Info        0x0                  21585  0    Runner: (CoreUI) [com.apple.coreui:framework] CoreUI /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Assets.car 0x104ed0000
+2023-09-20 23:46:53.242355+0500 0x2bfba8   Debug       0x0                  21585  0    Runner: (CoreFoundation) [com.apple.CFBundle:resources] Resource lookup at CFBundle 0x600000ea8100 </Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app> (executable, loaded)
+	Request       : Main type: storyboardc
+	Result        : file:///Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Bundle/Application/4383B4AE-2F4F-4142-B481-8D35B96611A9/Runner.app/Base.lproj/Main.storyboardc/
+2023-09-20 23:46:53.277238+0500 0x2bfbb5   Default     0x0                  21585  0    Runner: RepeatoCapture: Connected to localhost:1313.
+2023-09-20 23:46:53.299171+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.keyboard.preferences, user: mobile, kCFPreferencesCurrentHost, /Library/Managed Preferences/mobile/com.apple.keyboard.preferences.plist, managed: 1 } (0x600000f1c1b0)
+2023-09-20 23:46:53.299292+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.keyboard.preferences, user: kCFPreferencesAnyUser, kCFPreferencesCurrentHost, /Library/Managed Preferences/com.apple.keyboard.preferences.plist, managed: 1 } (0x600000f14480)
+2023-09-20 23:46:53.299418+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.keyboard.preferences, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/com.apple.keyboard.preferences.plist, managed: 0 } (0x600000c09b80)
+2023-09-20 23:46:53.299507+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.keyboard.preferences, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.apple.keyboard.preferences.plist, managed: 0 } (0x600000c00140)
+2023-09-20 23:46:53.299589+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) read data for { com.apple.keyboard.preferences, mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.apple.keyboard.preferences.plist, managed: 0 }, backed by /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Library/Preferences/com.apple.keyboard.preferences.plist
+2023-09-20 23:46:53.299710+0500 0x2bf2f0   Debug       0x0                  18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.keyboard.preferences, user: mobile, kCFPreferencesCurrentHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/ByHost/com.apple.keyboard.preferences..plist, managed: 0 } (0x600000c0d720)
+2023-09-20 23:46:53.391832+0500 0x2b5e41   Debug       0x0                  18419  0    SpringBoard: (BaseBoard) [com.apple.BaseBoard:MachPort]  *|machport|* invalidate <BSMachPortTaskNameRight:0x600001dcb380 usable=NO (18419:1a287:send task_name_for_pid:Runner.21122)> -> (<_NSMainThread: 0x6000012f4040>{number = 1, name = main}) (
+	0   BaseBoard                           0x000000018324f218 -[BSMachPortRight _lock_invalidateForOwner:] + 288
+	1   BaseBoard                           0x000000018324f2fc -[BSMachPortRight invalidate] + 56
+	2   BaseBoard                           0x000000018325dd50 -[BSProcessHandle dealloc] + 28
+	3   BoardServices                       0x0000000184a2ed20 -[BSXPCServiceConnectionPeer .cxx_destruct] + 28
+	4   libobjc.A.dylib                     0x0000000180031f28 _ZL27object_cxxDestructFromClassP11objc_objectP10objc_class + 112
+	5   libobjc.A.dylib                     0x00000001800467e4 objc_destructInstance + 76
+	6   libobjc.A.dylib                     0x000000018004d564 _objc_rootDealloc + 60
+	7   BoardServices                       0x0000000184a53ed0 -[BSXPCServiceConnection .cxx_destruct] + 196
+	8   libobjc.A.dylib
+2023-09-20 23:46:53.394610+0500 0x2b5e41   Debug       0x0                  18419  0    SpringBoard: (BaseBoard) [com.apple.BaseBoard:MachPort]  *|machport|* invalidate <BSMachPortTaskNameRight:0x600001ddd100 usable=NO (18419:1a287:send task_name_for_pid:Runner.21122)> -> (<_NSMainThread: 0x6000012f4040>{number = 1, name = main}) (
+	0   BaseBoard                           0x000000018324f218 -[BSMachPortRight _lock_invalidateForOwner:] + 288
+	1   BaseBoard                           0x000000018324f2fc -[BSMachPortRight invalidate] + 56
+	2   BaseBoard                           0x000000018325dd50 -[BSProcessHandle dealloc] + 28
+	3   FrontBoard                          0x000000018a3935a0 -[FBProcess .cxx_destruct] + 324
+	4   libobjc.A.dylib                     0x0000000180031f28 _ZL27object_cxxDestructFromClassP11objc_objectP10objc_class + 112
+	5   libobjc.A.dylib                     0x00000001800467e4 objc_destructInstance + 76
+	6   libobjc.A.dylib                     0x000000018004d564 _objc_rootDealloc + 60
+	7   FrontBoard                          0x000000018a38d38c -[FBProcess dealloc] + 228
+	8   FrontBoard                          0x000000018a3be808 -[FBScene .
+2023-09-20 23:46:53.602520+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: Capture now! 2.000000
+2023-09-20 23:46:53.712040+0500 0x2bf2f0   Debug       0x31bb24             18454  0    cfprefsd: (CoreFoundation) [com.apple.defaults:cfprefsd] Process 21585 (Runner) sent a request related to { com.apple.ImageIO, user: mobile, kCFPreferencesAnyHost, /Users/ahmadgoraya/Library/Developer/CoreSimulator/Devices/B0B88170-45D7-4289-8108-B2EE22AE714E/data/Containers/Data/Application/CBC9E765-8EA0-4E72-9E2A-BFBBB03E05E0/Library/Preferences/com.apple.ImageIO.plist, managed: 0 } (0x600000c0d720)
+2023-09-20 23:46:54.340609+0500 0x2bfa80   Debug       0x0                  20081  0    pasted: (CoreServices) [com.apple.launchservices:binding] BindingEvaluator::CreateWithBundleInfo(ID=(null), name=Runner.app, CC=????, vers=(null))
+2023-09-20 23:46:54.515098+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: Capture now! 2.000000
+2023-09-20 23:46:54.596880+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: Capture now! 2.000000
+2023-09-20 23:46:54.727201+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: timestamp < mostRecentScreenUpdate
+2023-09-20 23:46:54.798963+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: Capture now! 2.000000
+2023-09-20 23:46:54.860750+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: timestamp < mostRecentScreenUpdate
+2023-09-20 23:46:55.010805+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: Capture now! 2.000000
+2023-09-20 23:46:57.111000+0500 0x2bfbe7   Default     0x0                  21585  0    Runner: RepeatoCapture Event: 122 (0.000000 0.000000)
+2023-09-20 23:46:57.112527+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: Disable image stream
+2023-09-20 23:46:57.114657+0500 0x2bfbe7   Default     0x0                  21585  0    Runner: RepeatoCapture Event: 0 (341.000000 555.000000)
+2023-09-20 23:46:57.168068+0500 0x2bfbe7   Default     0x0                  21585  0    Runner: RepeatoCapture Event: 3 (341.000000 555.000000)
+2023-09-20 23:46:57.168987+0500 0x2bfbe7   Default     0x0                  21585  0    Runner: RepeatoCapture Event: 121 (0.000000 0.000000)
+2023-09-20 23:46:57.169318+0500 0x2bfba8   Default     0x0                  21585  0    Runner: RepeatoCapture: Enable image stream
+Child process terminated with signal 15: Terminated
+Simctl log stream quit with code 143

@@ -1,0 +1,175 @@
+{
+    "version": 6,
+    "id": "7c1d42a7-4ccf-f898-5011-8d8f015cacaf",
+    "title": "RecordedOn2Devices",
+    "description": "Recorded on 2 different devices for e2e test.",
+    "steps": [
+        {
+            "id": "58875ea4-35b5-9a18-d4e0-2cf714d4a9fd",
+            "type": "startApp",
+            "optional": false,
+            "createdOn": 1682431881218,
+            "recordedOn": "EMULATOR32X1X12X0",
+            "packageName": "com.iotecksolutions.todoapp",
+            "activityName": ".MainActivity",
+            "deleteAppData": false,
+            "grantPermissions": [],
+            "allPermissions": [],
+            "grantIosPermissions": [],
+            "allIosPermissions": [],
+            "os": "Android",
+            "iosBundleId": "",
+            "params": ""
+        },
+        {
+            "id": "441e839a-4696-6350-01c8-ac5409648113",
+            "originalFrame": "33e3b026-b870-78f1-6927-a0a80ca84004_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1682431881184,
+            "recordedOn": "EMULATOR32X1X12X0",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.5052777777777777,
+                "y": 0.30916666666666665,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "55587327-2739-2b02-7155-6bd5701ae3d0_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.5046296296296297,
+                        "y": 0.309009009009009
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999996840284288
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.5652777777777778,
+                "y": 0.32916666666666666
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false
+        },
+        {
+            "id": "493f3ae1-fe89-88c4-40ef-fbf2faa91b2f",
+            "originalFrame": "3ca1553a-dc5e-85dc-d608-0922a96a36e7_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1682431920499,
+            "recordedOn": "B0B88170-45D7-4289-8108-B2EE22AE714E",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.4681567167486593,
+                "y": 0.34880733944954123,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "bffd1089-3a08-c2fd-f5c7-2bc8244f8ef4_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.4673913043478261,
+                        "y": 0.34877232142857145
+                    },
+                    "size": {
+                        "width": 0.11956521739130435,
+                        "height": 0.03962053571428571
+                    },
+                    "probability": 0.9999999964877627
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.5281567167486593,
+                "y": 0.36880733944954125
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false
+        },
+        {
+            "id": "c3f52611-1d6d-c35b-c0b0-526c5dd1a535",
+            "originalFrame": "8a413e0b-a1bd-1745-422c-4cd43112ab7d_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1682431924120,
+            "recordedOn": "B0B88170-45D7-4289-8108-B2EE22AE714E",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.7302495235562647,
+                "y": 0.598348623853211,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "1344b15c-81a5-7bb9-1c35-f781dfc0f2be_template.png",
+            "offset": {
+                "x": 1.1102230246251565e-16,
+                "y": 0
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.7294685990338164,
+                        "y": 0.5982142857142857
+                    },
+                    "size": {
+                        "width": 0.11956521739130435,
+                        "height": 0.03962053571428571
+                    },
+                    "probability": 0.9999999964877627
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.7902495235562647,
+                "y": 0.618348623853211
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false
+        }
+    ],
+    "devices": [
+        {
+            "os": "Android",
+            "abi": "arm64-v8a",
+            "sdk": "29",
+            "osVersion": "10",
+            "size": "1080x2220",
+            "serial": "EMULATOR32X1X12X0",
+            "deviceId": "emulator-5554",
+            "name": "Android SDK built for arm64",
+            "brand": "google",
+            "currentRotation": "ROTATION_0",
+            "rotationVars": {
+                "portrait": "ROTATION_0",
+                "landscape": "ROTATION_90",
+                "upsideDown": "ROTATION_180",
+                "seascape": "ROTATION_270"
+            },
+            "isSimulator": true
+        },
+        {
+            "os": "iOS",
+            "size": "828x1792",
+            "serial": "B0B88170-45D7-4289-8108-B2EE22AE714E",
+            "deviceId": "B0B88170-45D7-4289-8108-B2EE22AE714E",
+            "name": "iPhone 11 Pro Max",
+            "brand": "Apple",
+            "rotationVars": {
+                "portrait": "ROTATION_0",
+                "landscape": "ROTATION_90",
+                "upsideDown": "ROTATION_180",
+                "seascape": "ROTATION_270"
+            },
+            "isSimulator": true
+        }
+    ],
+    "createdOn": 1682431878851,
+    "changedOn": 1682431954467,
+    "isWorkingCopy": false,
+    "testRuns": [],
+    "testRunExports": []
+}

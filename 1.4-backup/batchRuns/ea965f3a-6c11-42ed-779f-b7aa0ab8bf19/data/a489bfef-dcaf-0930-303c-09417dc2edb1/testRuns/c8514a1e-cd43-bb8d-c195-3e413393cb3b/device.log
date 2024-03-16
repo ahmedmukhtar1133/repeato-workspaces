@@ -1,0 +1,50 @@
+--------- beginning of main
+--------- beginning of system
+--------- beginning of main
+11-09 00:23:00.580  8367  8367 E lutions.todoap: Not starting debugger since process cannot load the jdwp agent.
+11-09 00:23:00.727  8367  8388 D libEGL  : Emulator has host GPU support, qemu.gles is set to 1.
+11-09 00:23:00.727  8367  8388 W libc    : Unable to set property "qemu.gles" to "1": connection failed; errno=13 (Permission denied)
+11-09 00:23:00.724  8367  8367 W RenderThread: type=1400 audit(0.0:62): avc: denied { write } for name="property_service" dev="tmpfs" ino=8403 scontext=u:r:untrusted_app_27:s0:c146,c256,c512,c768 tcontext=u:object_r:property_socket:s0 tclass=sock_file permissive=0
+11-09 00:23:00.750  8367  8388 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+11-09 00:23:00.753  8367  8388 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+11-09 00:23:00.756  8367  8388 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+11-09 00:23:00.860  8367  8367 W lutions.todoapp: type=1400 audit(0.0:63): avc: denied { read } for name="max_map_count" dev="proc" ino=95312 scontext=u:r:untrusted_app_27:s0:c146,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=0
+11-09 00:23:00.893  8367  8367 D HostConnection: HostConnection::get() New Host Connection established 0x7a6bec9460, tid 8367
+11-09 00:23:00.922  8367  8367 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+11-09 00:23:00.939  8367  8367 D EGL_emulation: eglCreateContext: 0x7a6bec9960: maj 3 min 0 rcv 3
+11-09 00:23:00.942  8367  8367 D EGL_emulation: eglCreateContext: 0x7a6bec9a00: maj 3 min 0 rcv 3
+11-09 00:23:00.963  8367  8397 D HostConnection: HostConnection::get() New Host Connection established 0x7a6becacc0, tid 8397
+11-09 00:23:00.970  8367  8397 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+11-09 00:23:00.970  8367  8397 D EGL_emulation: eglMakeCurrent: 0x7a6bec9a00: ver 3 0 (tinfo 0x7a15f9d280)
+11-09 00:23:01.166  8367  8367 W lutions.todoap: Accessing hidden method Landroid/view/WindowInsets;->getInsets(I)Landroid/graphics/Insets; (blacklist, linking, denied)
+11-09 00:23:01.166  8367  8367 I chatty  : uid=10146(com.iotecksolutions.todoapp) identical 1 line
+11-09 00:23:01.167  8367  8367 W lutions.todoap: Accessing hidden method Landroid/view/WindowInsets;->getInsets(I)Landroid/graphics/Insets; (blacklist, linking, denied)
+11-09 00:23:01.173  8367  8367 W lutions.todoap: Accessing hidden method Landroid/view/WindowInsets$Type;->ime()I (blacklist, linking, denied)
+11-09 00:23:01.207  8367  8367 W FlutterActivityAndFragmentDelegate: A splash screen was provided to Flutter, but this is deprecated. See flutter.dev/go/android-splash-migration for migration steps.
+11-09 00:23:01.314  8367  8387 D HostConnection: HostConnection::get() New Host Connection established 0x7a70a54f00, tid 8387
+11-09 00:23:01.337  8367  8387 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+11-09 00:23:01.337  8367  8387 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+11-09 00:23:01.342  8367  8387 D EGL_emulation: eglCreateContext: 0x7a70a54fa0: maj 3 min 0 rcv 3
+11-09 00:23:01.345  8367  8387 D EGL_emulation: eglMakeCurrent: 0x7a70a54fa0: ver 3 0 (tinfo 0x7a70a18600)
+11-09 00:23:01.379  8367  8396 W Gralloc3: mapper 3.x is not supported
+11-09 00:23:01.381  8367  8396 D HostConnection: createUnique: call
+11-09 00:23:01.381  8367  8387 D HostConnection: createUnique: call
+11-09 00:23:01.381  8367  8387 D HostConnection: HostConnection::get() New Host Connection established 0x7a70a55040, tid 8387
+11-09 00:23:01.381  8367  8396 D HostConnection: HostConnection::get() New Host Connection established 0x7a70a54dc0, tid 8396
+11-09 00:23:01.382  8367  8387 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+11-09 00:23:01.383  8367  8396 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+11-09 00:23:01.383  8367  8396 D eglCodecCommon: allocate: Ask for block of size 0x1000
+11-09 00:23:01.383  8367  8387 D eglCodecCommon: allocate: Ask for block of size 0x1000
+11-09 00:23:01.384  8367  8387 D eglCodecCommon: allocate: ioctl allocate returned offset 0x1fed70000 size 0x8000
+11-09 00:23:01.384  8367  8396 D eglCodecCommon: allocate: ioctl allocate returned offset 0x1fed68000 size 0x8000
+11-09 00:23:01.384  8367  8396 D HostConnection: HostConnection::get() New Host Connection established 0x7a70a55180, tid 8396
+11-09 00:23:01.385  8367  8396 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+11-09 00:23:01.387  8367  8396 D EGL_emulation: eglMakeCurrent: 0x7a6bec9960: ver 3 0 (tinfo 0x7a70a18840)
+11-09 00:23:01.393  8367  8396 D EGL_emulation: eglCreateContext: 0x7a70a55220: maj 3 min 0 rcv 3
+11-09 00:23:01.394  8367  8396 D EGL_emulation: eglMakeCurrent: 0x7a70a55220: ver 3 0 (tinfo 0x7a70a18840)
+11-09 00:23:01.395  8367  8396 D EGL_emulation: eglMakeCurrent: 0x7a6bec9960: ver 3 0 (tinfo 0x7a70a18840)
+11-09 00:23:01.403  8367  8396 D EGL_emulation: eglMakeCurrent: 0x7a6bec9960: ver 3 0 (tinfo 0x7a70a18840)
+11-09 00:23:01.406  8367  8387 D EGL_emulation: eglMakeCurrent: 0x7a70a54fa0: ver 3 0 (tinfo 0x7a70a18600)
+11-09 00:23:01.546   378   405 I ActivityTaskManager: Displayed com.iotecksolutions.todoapp/.MainActivity: +1s72ms
+Quit with code null
+Logcat pid process exited with code null

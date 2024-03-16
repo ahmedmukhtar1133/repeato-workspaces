@@ -1,0 +1,14 @@
+--------- beginning of main
+09-20 23:20:03.490  2005  2005 I Choreographer: Skipped 340 frames!  The application may be doing too much work on its main thread.
+09-20 23:20:14.352  1216  1216 I Choreographer: Skipped 110 frames!  The application may be doing too much work on its main thread.
+09-20 23:20:18.730  1216  1216 I Choreographer: Skipped 97 frames!  The application may be doing too much work on its main thread.
+09-20 23:20:26.755  3246  3246 I Choreographer: Skipped 207 frames!  The application may be doing too much work on its main thread.
+09-20 23:20:26.905   582   606 I ActivityTaskManager: Displayed com.iotecksolutions.todoapp/.MainActivity: +16s690ms
+09-20 23:20:27.487   791   791 I Choreographer: Skipped 46 frames!  The application may be doing too much work on its main thread.
+09-20 23:20:27.795  3246  3246 I Choreographer: Skipped 61 frames!  The application may be doing too much work on its main thread.
+09-20 23:20:28.051   791  1070 I Choreographer: Skipped 75 frames!  The application may be doing too much work on its main thread.
+09-20 23:20:28.308   791   791 I Choreographer: Skipped 48 frames!  The application may be doing too much work on its main thread.
+09-20 23:20:28.530  3246  3246 I Choreographer: Skipped 42 frames!  The application may be doing too much work on its main thread.
+09-20 23:20:31.608   791   791 I Choreographer: Skipped 45 frames!  The application may be doing too much work on its main thread.
+09-20 23:21:08.110  3246  3246 I Choreographer: Skipped 200 frames!  The application may be doing too much work on its main thread.
+Quit with code null

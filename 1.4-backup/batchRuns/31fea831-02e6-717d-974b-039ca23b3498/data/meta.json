@@ -1,0 +1,14 @@
+{
+    "id": "31fea831-02e6-717d-974b-039ca23b3498",
+    "batchId": "0",
+    "title": "Default Test Batch",
+    "stats": {
+        "totalCount": 1,
+        "successCount": 1,
+        "duration": "00:00:12",
+        "failCount": 0,
+        "stepsCount": 8
+    },
+    "createdOn": "2023-11-08T19:22:59.551Z",
+    "createdBy": ""
+}
