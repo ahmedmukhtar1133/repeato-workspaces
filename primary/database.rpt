@@ -1,0 +1,77 @@
+{
+  "version": 14,
+  "tests": [],
+  "testBatches": [
+    {
+      "id": "0",
+      "title": "Default Test Batch",
+      "tests": [
+        "f15e4698-6f14-80d5-4b7f-216a83dcd148"
+      ],
+      "exceptionHandlers": []
+    }
+  ],
+  "folders": {
+    "id": "ROOT_TREE_NODE_ID",
+    "title": "All tests",
+    "active": false,
+    "expanded": true,
+    "children": [
+      {
+        "id": "8f7951c6-99df-8ad6-d640-65ba55d28884",
+        "title": "SingleDuplicatedTest",
+        "active": false,
+        "expanded": true,
+        "children": [
+          "3972f045-5d21-efde-71bb-99d669887c38"
+        ]
+      },
+      {
+        "id": "default-node",
+        "title": "Recorded tests",
+        "active": false,
+        "expanded": true,
+        "children": [
+          "31d515e7-38b2-12c7-7115-abc54de7157c",
+          "3206ff30-db2f-165f-6a4b-b834f73eea14",
+          "f15e4698-6f14-80d5-4b7f-216a83dcd148"
+        ]
+      }
+    ]
+  },
+  "batchRunner": {
+    "testBatch": "0",
+    "currentExceptionHandlerIndex": 0,
+    "currentTestIndex": 0,
+    "testRunner": {
+      "id": "782b3777-79ce-6194-1b90-7d29e0779409",
+      "currentTest": "f15e4698-6f14-80d5-4b7f-216a83dcd148",
+      "currentStepIndex": 54,
+      "stopExecutionOnStepIndex": -1,
+      "defaultSearchTimeout": 8000,
+      "subTestRunners": [],
+      "rootTestRunner": "782b3777-79ce-6194-1b90-7d29e0779409"
+    },
+    "batchRun": {
+      "id": "2212b5cf-2926-9c10-bb73-d96599424262",
+      "batchId": "0",
+      "title": "Default Test Batch",
+      "tests": [
+        "f15e4698-6f14-80d5-4b7f-216a83dcd148"
+      ],
+      "testRuns": [],
+      "createdOn": 1710667360308,
+      "stats": {
+        "totalCount": 1,
+        "successCount": 1,
+        "duration": "00:00:44",
+        "failCount": 0,
+        "stepsCount": 55
+      }
+    }
+  },
+  "recorder": {
+    "isRecording": false,
+    "testDirty": false
+  }
+}
