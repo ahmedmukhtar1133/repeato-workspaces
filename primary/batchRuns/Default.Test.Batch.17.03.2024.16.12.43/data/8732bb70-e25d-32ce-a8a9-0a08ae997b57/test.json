@@ -1,0 +1,4797 @@
+{
+    "version": 7,
+    "id": "8732bb70-e25d-32ce-a8a9-0a08ae997b57",
+    "title": "Pixel3A-SimpleLoginLong(50Steps+)",
+    "description": "",
+    "steps": [
+        {
+            "id": "7d789f5d-a4c8-c526-0a10-1dc6355d36c8",
+            "type": "startApp",
+            "optional": false,
+            "createdOn": 1710666672767,
+            "recordedOn": "Android SDK built for arm64",
+            "packageName": "com.iotecksolutions.todoapp",
+            "activityName": ".MainActivity",
+            "deleteAppData": true,
+            "grantPermissions": [],
+            "allPermissions": [],
+            "grantIosPermissions": [],
+            "allIosPermissions": [],
+            "os": "Android",
+            "params": ""
+        },
+        {
+            "id": "8bbfcb44-3ea5-b01a-226e-62298c02a851",
+            "originalFrame": "b816cda7-e494-8d2e-3df3-cb58bece76f8_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666672787,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.4311504424778761,
+                "y": 0.30934704616120545,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "b946ea40-2946-0f1b-03fa-64996eb5997b_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.4305555555555556,
+                        "y": 0.309009009009009
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999998783795263
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.4911504424778761,
+                "y": 0.32934704616120547
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "553e5a68-a3bc-4138-58ef-7e68fcebc79b",
+            "originalFrame": "9e98eba3-aed4-6439-2e80-0d07af122d0b_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666676032,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.1833628318584071,
+                "y": 0.42773977517340345,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "864b8216-6374-50f2-4315-9e67692a7b49_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.18333333333333332,
+                        "y": 0.4274774774774775
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.2433628318584071,
+                "y": 0.44773977517340346
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "26602667-a119-ac74-c53a-09d31b734c89",
+            "originalFrame": "b7d6c5da-e1fc-889d-2538-25d7a723fca4_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666677898,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.03734513274336283,
+                "y": 0.4320449653193016,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "15793e9f-6023-5f24-eeb2-00d4b0d245c0_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.037037037037037035,
+                        "y": 0.43198198198198196
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.09734513274336283,
+                "y": 0.4520449653193016
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "a23b85e1-2764-db55-8875-8b5faa81bcdc",
+            "originalFrame": "c63218f9-7981-95e2-a560-1379d536e49f_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666680899,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.03734513274336283,
+                "y": 0.5138435780913657,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "4fb818fb-5a6d-efc6-8600-34c11ce28799_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.037037037037037035,
+                        "y": 0.5135135135135135
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.09734513274336283,
+                "y": 0.5338435780913657
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "52c2f487-bf46-a1bc-8588-ddbdea8aab00",
+            "originalFrame": "c9ee83bc-1b0b-8b9c-aa17-99c15fcac24d_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666682583,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.18778761061946905,
+                "y": 0.42343458502750536,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "45b81ade-bbe6-2a36-fd87-dfa0eee8eee7_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.18703703703703703,
+                        "y": 0.42342342342342343
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.24778761061946905,
+                "y": 0.4434345850275054
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "5b26c101-ce9f-3c86-e498-1c1856b8002b",
+            "type": "text",
+            "optional": false,
+            "createdOn": 1710666684539,
+            "recordedOn": "Android SDK built for arm64",
+            "text": "ahmedmukhtar@gmail.com"
+        },
+        {
+            "id": "bcb57e7d-fc70-925a-efde-d510c493927e",
+            "originalFrame": "ede4857a-3ed7-890d-8f05-7a1ad88131e9_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666923640,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.18411576623966,
+                "y": 0.5115760043952207,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "614b9725-5a95-304b-d286-aa4ed08dbcb4_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.18333333333333332,
+                        "y": 0.5112612612612613
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999890724817911
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.18584070796460175,
+                "y": 0.5338435780913657
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "a1e18fc9-fc0d-8ad8-9c27-6bd8c7dafbf2",
+            "type": "text",
+            "optional": false,
+            "createdOn": 1710666788095,
+            "recordedOn": "Android SDK built for arm64",
+            "text": "123456"
+        },
+        {
+            "id": "1de07a08-3c8b-f916-31ba-52973bdf5706",
+            "originalFrame": "d4af222b-849f-12a0-0cd4-4219e414528e_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666804403,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.46212389380530966,
+                "y": 0.6279311169576657,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "4106aeb4-a7ec-9d55-c894-859744ac388f_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.462037037037037,
+                        "y": 0.627927927927928
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.5221238938053097,
+                "y": 0.6479311169576657
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "27db5451-e788-6926-d9b0-48601be66887",
+            "originalFrame": "c7f97176-205a-8b08-eb1b-97bb371e62fa_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666814933,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 3,
+            "selection": {
+                "x": 0.02849557522123894,
+                "y": 0.4148242047357092,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "18340087-4fc1-2321-899a-15017d43db22_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.11711711711711711
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9961714776994572
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.21621621621621623
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.3153153153153153
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9961747758231349
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.4144144144144144
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999999205271403
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.5135135135135135
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9961747758231349
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.6126126126126126
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.7117117117117117
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9961747758231349
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.8108108108108109
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.08849557522123894,
+                "y": 0.4348242047357092
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "da7232e1-afe3-5208-d1ec-6a0845e0e5b4",
+            "originalFrame": "02715675-8225-6192-0b42-1a0e77165e51_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666822083,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.20106194690265483,
+                "y": 0.6300837120306146,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "ec907894-e9d4-925b-13d0-b57b6364e3b9_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.20092592592592592,
+                        "y": 0.6297297297297297
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.26106194690265483,
+                "y": 0.6500837120306147
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "1fa51f6f-7008-d561-d697-c0f7d2c4e862",
+            "originalFrame": "bbe0e56c-a123-c966-0ffc-e12c3020573d_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666826133,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.041769911504424787,
+                "y": 0.044577852188471656,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "0ac05e88-a9bc-88bc-5429-b2b199e48840_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.041666666666666664,
+                        "y": 0.044144144144144144
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999999966576096
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.10176991150442478,
+                "y": 0.06457785218847166
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "ef5cc095-8004-2c28-9d90-f0de19a44ab6",
+            "originalFrame": "2a5e05d5-49b5-51ac-a496-439f77c0d857_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666828449,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.6435398230088496,
+                "y": 0.0424252571155226,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "10434ea9-495f-cbd0-4e9e-1db46ad16777_template.png",
+            "offset": {
+                "x": 1.1102230246251565e-16,
+                "y": 6.938893903907228e-18
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.6435185185185185,
+                        "y": 0.04234234234234234
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.7035398230088495,
+                "y": 0.062425257115522596
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "29dac698-58b8-fa3f-8bb2-1c18cba68cc6",
+            "originalFrame": "c1f460a1-9604-230b-e887-3fd128757900_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666831816,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.8205309734513275,
+                "y": 0.3545515426931356,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "fcc8c524-7e43-b2f0-3274-74872b18cea8_template.png",
+            "offset": {
+                "x": 1.1102230246251565e-16,
+                "y": 0
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.8203703703703704,
+                        "y": 0.3545045045045045
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999996821085612
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.8805309734513275,
+                "y": 0.3745515426931356
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "3ddd3f00-eb63-072c-9b13-26f5f70cb932",
+            "originalFrame": "c9497090-7938-559d-df6f-ea94a00cd08c_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666833665,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.7541592920353983,
+                "y": 0.033814876823726386,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "e78a12dd-7475-beaf-1704-b5cdbb7fd047_template.png",
+            "offset": {
+                "x": 1.1102230246251565e-16,
+                "y": 6.938893903907228e-18
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.7537037037037037,
+                        "y": 0.033783783783783786
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999993244806925
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.8141592920353983,
+                "y": 0.05381487682372638
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "73653fd8-d1bc-7ba4-9223-03347b4e17f3",
+            "originalFrame": "8fc7d49c-e955-60d6-4762-f59314661004_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666838649,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.26300884955752213,
+                "y": 0.328720401817747,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "b451a963-ab24-b095-91a3-94088443a9b9_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.26296296296296295,
+                        "y": 0.32837837837837835
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.3230088495575221,
+                "y": 0.348720401817747
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "77facf53-2396-1fcb-c749-b693c0cf839f",
+            "originalFrame": "1b36edc7-184f-69bd-6260-89f5a3478cfa_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666842066,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.88,
+                "y": 0.0381200669696245,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "a6fc2801-f77f-2b50-6f5b-8384e23885e2_template.png",
+            "offset": {
+                "x": -0.002477876106194765,
+                "y": 6.938893903907228e-18
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.8796296296296297,
+                        "y": 0.03783783783783784
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999998807907104
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.9424778761061947,
+                "y": 0.0581200669696245
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "7570b4ee-82c2-b82d-de76-46dbbfbed085",
+            "originalFrame": "631e5a20-3895-49b6-4f46-e4176fb2251d_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666851468,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.44,
+                "y": 0.3158048313800526,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "e6eedb93-ff27-08ad-5390-e9c5c79d8bbb_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.4398148148148148,
+                        "y": 0.31576576576576576
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999998910280871
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.5,
+                "y": 0.3358048313800526
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "f0adabd1-b0e7-3263-4889-db4da2d90b5b",
+            "originalFrame": "8d879691-bc92-fc10-5538-e38899a40e0d_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667195882,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.16566371681415928,
+                "y": 0.42773977517340345,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "8432b796-44ed-5244-39fa-07b55a18eb23_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.1648148148148148,
+                        "y": 0.4274774774774775
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999998410542806
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.22566371681415928,
+                "y": 0.44773977517340346
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "cb5e1066-891d-2514-cd3f-7e5e69327794",
+            "type": "text",
+            "optional": false,
+            "createdOn": 1710667198260,
+            "recordedOn": "Android SDK built for arm64",
+            "text": "ahmedmukhtar@gmail.com"
+        },
+        {
+            "id": "ffc33cc6-8a0c-fcde-79f4-9fd98b606b10",
+            "originalFrame": "e8d1bfc5-6120-919b-a67e-055ffa691772_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667206393,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.19663716814159293,
+                "y": 0.5073857928725185,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "ec8b3816-bd77-5ee4-17cc-763912940d7b_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.1962962962962963,
+                        "y": 0.5072072072072072
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.25663716814159293,
+                "y": 0.5273857928725185
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "16a71925-1dfc-8fae-0ddf-7e2cd17bc0c6",
+            "type": "text",
+            "optional": false,
+            "createdOn": 1710667208436,
+            "recordedOn": "Android SDK built for arm64",
+            "text": "123456"
+        },
+        {
+            "id": "767f822c-faa9-c080-ccb1-5be794558dc5",
+            "originalFrame": "e3536a74-77a6-e76b-406d-ba6e7e249232_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667211940,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.4311504424778761,
+                "y": 0.6322363071035637,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "ec440610-6d17-eda6-98e8-c13a00cbe893_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.4305555555555556,
+                        "y": 0.631981981981982
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.4911504424778761,
+                "y": 0.6522363071035637
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "0843f4cd-4563-a80a-1c03-493132381f56",
+            "originalFrame": "db236700-1055-952a-c2ca-e4e429670462_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667217076,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.16123893805309736,
+                "y": 0.2340062186079885,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "6ea55f8b-0aac-88b0-1517-7582b4c85d89_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.16111111111111112,
+                        "y": 0.23378378378378378
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.22123893805309736,
+                "y": 0.2540062186079885
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "a853804d-3a9d-29ee-4656-ff2f81e3d790",
+            "originalFrame": "a079fa16-4cc4-6644-c1e5-75a633aaf2fe_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667223558,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.7674336283185841,
+                "y": 0.033814876823726386,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "94fd97ae-9d19-c382-54c8-c7150a620edf_template.png",
+            "offset": {
+                "x": 0,
+                "y": 6.938893903907228e-18
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.7666666666666667,
+                        "y": 0.033783783783783786
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.8274336283185841,
+                "y": 0.05381487682372638
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "1c23259f-c737-ddcc-9628-69c971a03c73",
+            "originalFrame": "19a55784-ba8b-a118-00d1-27c0c4b0ce02_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667227161,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.21876106194690265,
+                "y": 0.23615881368093758,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "b118e93a-8ee4-cc8e-e266-d183d2845fa0_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.21851851851851853,
+                        "y": 0.23603603603603604
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999938011169434
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.27876106194690264,
+                "y": 0.25615881368093757
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "302baf5d-7274-192d-691c-498176f138df",
+            "originalFrame": "d30e2faa-7a19-870d-16fe-22eacdfcc3be_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667238691,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.88,
+                "y": 0.044577852188471656,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "ea8f25d3-4062-5cdb-c655-d2af7b469dca_template.png",
+            "offset": {
+                "x": -0.006902654867256719,
+                "y": 0
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.8796296296296297,
+                        "y": 0.044144144144144144
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.9469026548672567,
+                "y": 0.06457785218847166
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "bc4fd7d8-e478-6ac7-7871-d2d16e082faa",
+            "originalFrame": "65b5e9d1-760d-99eb-0116-4171675a9bcf_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666672787,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.4311504424778761,
+                "y": 0.30934704616120545,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "86ff8af7-d0c5-e734-5cab-2a0fddcae123_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.4305555555555556,
+                        "y": 0.309009009009009
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999998783795263
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.4911504424778761,
+                "y": 0.32934704616120547
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "207ebaf6-2273-301e-fe8f-1e776dc2d901",
+            "originalFrame": "39de8766-4535-879d-28bd-c2132d91e5c3_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666676032,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.1833628318584071,
+                "y": 0.42773977517340345,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "837872ee-6925-dec2-c37d-c10b8b869e10_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.18333333333333332,
+                        "y": 0.4274774774774775
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.2433628318584071,
+                "y": 0.44773977517340346
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "e984f30a-90e7-1996-294c-87903fcffc02",
+            "originalFrame": "2fa55e3e-73c8-7f9e-79df-d9084dab4b4d_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666677898,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.03734513274336283,
+                "y": 0.4320449653193016,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "1b000c18-6168-4e2f-fb29-b95f6554eef4_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.037037037037037035,
+                        "y": 0.43198198198198196
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.09734513274336283,
+                "y": 0.4520449653193016
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "e6487de4-c71b-5fd3-9ba2-84c117032403",
+            "originalFrame": "efd58826-69e5-1289-3dc6-425a6483c0e1_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666680899,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.03734513274336283,
+                "y": 0.5138435780913657,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "a9223709-e70c-1d2a-49a3-338a589aedb0_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.037037037037037035,
+                        "y": 0.5135135135135135
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.09734513274336283,
+                "y": 0.5338435780913657
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "dcd94873-1bb0-be3c-1b78-a4c6859b1316",
+            "originalFrame": "c6d72f27-348a-639c-738f-ffe04f24b592_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666682583,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.18778761061946905,
+                "y": 0.42343458502750536,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "b3b94a59-67a0-d410-5f6f-e1f1875f44c2_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.18703703703703703,
+                        "y": 0.42342342342342343
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.24778761061946905,
+                "y": 0.4434345850275054
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "172a14c8-34a1-a035-8353-35bd5bff08fe",
+            "type": "text",
+            "optional": false,
+            "createdOn": 1710666684539,
+            "recordedOn": "Android SDK built for arm64",
+            "text": "ahmedmukhtar@gmail.com"
+        },
+        {
+            "id": "fea74011-1849-492f-7d57-fa5bf2ceb9a7",
+            "originalFrame": "e6475063-5737-bab8-cc89-43dc604f534a_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666923640,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.18411576623966,
+                "y": 0.5115760043952207,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "5d399d82-9176-7aab-9699-ddbb0ae9ab87_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.18333333333333332,
+                        "y": 0.5112612612612613
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999890724817911
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.18584070796460175,
+                "y": 0.5338435780913657
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "a4a98175-f9f6-af3f-6387-da06d88f1b2a",
+            "type": "text",
+            "optional": false,
+            "createdOn": 1710666788095,
+            "recordedOn": "Android SDK built for arm64",
+            "text": "123456"
+        },
+        {
+            "id": "7559520f-4915-fbdc-2527-bfb970076e32",
+            "originalFrame": "a5486193-c237-eb74-be66-c64e00a5e2ba_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666804403,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.46212389380530966,
+                "y": 0.6279311169576657,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "55f6b615-d11b-671c-b538-4bcf261692fd_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.462037037037037,
+                        "y": 0.627927927927928
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.5221238938053097,
+                "y": 0.6479311169576657
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "426c7fed-ab61-187d-9b88-79e0fc0abfd8",
+            "originalFrame": "c8a27041-269c-a56f-5d5d-59e2d3b1d1f3_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666814933,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 3,
+            "selection": {
+                "x": 0.02849557522123894,
+                "y": 0.4148242047357092,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "9f1a3730-153d-0f48-9099-957fdd1d6cd3_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.11711711711711711
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9961714776994572
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.21621621621621623
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.3153153153153153
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9961747758231349
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.4144144144144144
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999999205271403
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.5135135135135135
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9961747758231349
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.6126126126126126
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.7117117117117117
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9961747758231349
+                },
+                {
+                    "position": {
+                        "x": 0.027777777777777776,
+                        "y": 0.8108108108108109
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.08849557522123894,
+                "y": 0.4348242047357092
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "2337f54e-7a83-7271-9b6f-c8429c3fdad0",
+            "originalFrame": "457f67cc-1aba-2744-3d7c-bf5e446bb415_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666822083,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.20106194690265483,
+                "y": 0.6300837120306146,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "1ffb7a2e-4e90-a7de-5739-9a483f8bbdfb_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.20092592592592592,
+                        "y": 0.6297297297297297
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.26106194690265483,
+                "y": 0.6500837120306147
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "32b14bdb-1586-8539-32a6-4a560e712d9b",
+            "originalFrame": "aa83c0b6-e411-05e7-6ece-da1b1f836da2_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666826133,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.041769911504424787,
+                "y": 0.044577852188471656,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "753012a1-519d-f312-401e-c4f6707013f6_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.041666666666666664,
+                        "y": 0.044144144144144144
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999999966576096
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.10176991150442478,
+                "y": 0.06457785218847166
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "be71dc83-0a35-e707-6b6b-0b8bdf486ca9",
+            "originalFrame": "c5f81a81-3065-98ed-4256-e46a0d54ef45_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666828449,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.6435398230088496,
+                "y": 0.0424252571155226,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "043f37dd-2007-ff24-2e34-94febfda7c17_template.png",
+            "offset": {
+                "x": 1.1102230246251565e-16,
+                "y": 6.938893903907228e-18
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.6435185185185185,
+                        "y": 0.04234234234234234
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.7035398230088495,
+                "y": 0.062425257115522596
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "d23085b6-c5a6-0a2b-57fb-47a504dfdb7d",
+            "originalFrame": "abc17c72-aaa5-2e3b-0fe3-880e6d3e54c0_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666831816,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.8205309734513275,
+                "y": 0.3545515426931356,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "080e5c91-363e-493e-4622-5d6b92601eb0_template.png",
+            "offset": {
+                "x": 1.1102230246251565e-16,
+                "y": 0
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.8203703703703704,
+                        "y": 0.3545045045045045
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999996821085612
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.8805309734513275,
+                "y": 0.3745515426931356
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "6dcbb77d-084e-f47b-6f31-49d30cffda99",
+            "originalFrame": "914f56b7-133a-0d96-4c62-33dd7a4cbb6c_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666833665,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.7541592920353983,
+                "y": 0.033814876823726386,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "57ec5072-c3b8-40cf-c6de-06a3cccfd179_template.png",
+            "offset": {
+                "x": 1.1102230246251565e-16,
+                "y": 6.938893903907228e-18
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.7537037037037037,
+                        "y": 0.033783783783783786
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999993244806925
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.8141592920353983,
+                "y": 0.05381487682372638
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "394b8f8c-b424-ea76-222c-63b406b9dd4d",
+            "originalFrame": "8798da47-c442-d96f-81a2-32ae2d9b4601_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666838649,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.26300884955752213,
+                "y": 0.328720401817747,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "3cea6878-d40f-1b4c-a2f5-30cffa948342_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.26296296296296295,
+                        "y": 0.32837837837837835
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.3230088495575221,
+                "y": 0.348720401817747
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "4d3a525b-a787-9135-7fbf-1c1a64dac0f8",
+            "originalFrame": "42b6ce24-c42d-791b-c476-5dc8e9c8e997_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666842066,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.88,
+                "y": 0.0381200669696245,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "06ab9300-bceb-3759-0496-9b957ae5a72b_template.png",
+            "offset": {
+                "x": -0.002477876106194765,
+                "y": 6.938893903907228e-18
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.8796296296296297,
+                        "y": 0.03783783783783784
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999998807907104
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.9424778761061947,
+                "y": 0.0581200669696245
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "6d14aed6-f664-30b8-31ae-64eba2dc40ba",
+            "originalFrame": "bca21510-23d1-53f4-a341-506529c193e7_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710666851468,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.44,
+                "y": 0.3158048313800526,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "58597fdf-42d3-2474-1c67-c9bd83c62151_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.4398148148148148,
+                        "y": 0.31576576576576576
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999998910280871
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.5,
+                "y": 0.3358048313800526
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "85bc855d-080f-4949-eaa1-d863959fdb4d",
+            "originalFrame": "1d21b805-58b6-cbdc-a23c-84c734a376bd_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667195882,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.16566371681415928,
+                "y": 0.42773977517340345,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "c2c85395-777f-4b83-9747-b71ae9cf4c12_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.1648148148148148,
+                        "y": 0.4274774774774775
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999998410542806
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.22566371681415928,
+                "y": 0.44773977517340346
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "72f82d64-8a6f-9711-a019-20872f315082",
+            "type": "text",
+            "optional": false,
+            "createdOn": 1710667198260,
+            "recordedOn": "Android SDK built for arm64",
+            "text": "ahmedmukhtar@gmail.com"
+        },
+        {
+            "id": "1f26d5f8-c796-2092-a729-27933ba88e4e",
+            "originalFrame": "51b59c9b-9885-f34b-a373-79d70e5ddd13_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667206393,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.19663716814159293,
+                "y": 0.5073857928725185,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "d98a98d6-336a-604d-4756-6be0b0b9c306_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.1962962962962963,
+                        "y": 0.5072072072072072
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.25663716814159293,
+                "y": 0.5273857928725185
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "3312b160-15fb-283c-d74c-d59a704978c3",
+            "type": "text",
+            "optional": false,
+            "createdOn": 1710667208436,
+            "recordedOn": "Android SDK built for arm64",
+            "text": "123456"
+        },
+        {
+            "id": "16f2769f-0358-f554-62f0-d4b133f88550",
+            "originalFrame": "ad1f309d-b6b3-90ba-86c0-175fa7926079_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667211940,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.4311504424778761,
+                "y": 0.6322363071035637,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "a4ef9a40-e273-71f5-03b4-acbfd65b314d_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.4305555555555556,
+                        "y": 0.631981981981982
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.4911504424778761,
+                "y": 0.6522363071035637
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "8bf09a34-f43d-2a5f-1427-4c8603755984",
+            "originalFrame": "d0a58d3f-775b-0bfe-05fb-04c28675bab2_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667217076,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.16123893805309736,
+                "y": 0.2340062186079885,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "79ee3ca4-74fe-7170-8a64-241435a4791a_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.16111111111111112,
+                        "y": 0.23378378378378378
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.22123893805309736,
+                "y": 0.2540062186079885
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "b836c587-dee0-4f2d-3a10-aa9c845a29d2",
+            "originalFrame": "6382b4b7-bfd2-8702-008b-a74cf9d562e3_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667223558,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.7674336283185841,
+                "y": 0.033814876823726386,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "3e2aff70-0b2f-683f-22fb-f04605a54910_template.png",
+            "offset": {
+                "x": 0,
+                "y": 6.938893903907228e-18
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.7666666666666667,
+                        "y": 0.033783783783783786
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.8274336283185841,
+                "y": 0.05381487682372638
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "dbaef1ff-d3c7-71de-98ae-759c6954d684",
+            "originalFrame": "b2d078a0-fef5-d8e9-d018-1390da918201_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667227161,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.21876106194690265,
+                "y": 0.23615881368093758,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "b44c537c-9d3a-9d60-cd1b-31f94898d31c_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.21851851851851853,
+                        "y": 0.23603603603603604
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999938011169434
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.27876106194690264,
+                "y": 0.25615881368093757
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        },
+        {
+            "id": "54e1606b-54c1-5bb4-e475-a3c04bb179d9",
+            "originalFrame": "a45c5e0e-ffe6-a273-ceb8-2bd3fd63b42d_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1710667238691,
+            "recordedOn": "Android SDK built for arm64",
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.88,
+                "y": 0.044577852188471656,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "507fb3f4-de0b-3d5d-2481-030de9f23b8c_template.png",
+            "offset": {
+                "x": -0.006902654867256719,
+                "y": 0
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.8796296296296297,
+                        "y": 0.044144144144144144
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.9469026548672567,
+                "y": 0.06457785218847166
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false,
+            "locatorFallbacks": []
+        }
+    ],
+    "devices": [
+        {
+            "os": "Android",
+            "abi": "arm64-v8a",
+            "sdk": "29",
+            "osVersion": "10",
+            "size": "1080x2220",
+            "serial": "EMULATOR32X1X12X0",
+            "name": "Android SDK built for arm64",
+            "brand": "google",
+            "currentRotation": "ROTATION_0",
+            "rotationVars": {
+                "portrait": "ROTATION_0",
+                "landscape": "ROTATION_90",
+                "upsideDown": "ROTATION_180",
+                "seascape": "ROTATION_270"
+            },
+            "isSimulator": false
+        }
+    ],
+    "createdOn": 1710666635821,
+    "changedOn": 1710667281323,
+    "isWorkingCopy": false,
+    "testRuns": [
+        {
+            "id": "50029546-437e-f45a-bbc8-389c2f225544",
+            "date": 1710667017724,
+            "completed": true,
+            "stepResults": [],
+            "devices": [
+                {
+                    "os": "Android",
+                    "abi": "arm64-v8a",
+                    "sdk": "29",
+                    "osVersion": "10",
+                    "size": "1080x2220",
+                    "serial": "EMULATOR32X1X12X0",
+                    "name": "Android SDK built for arm64",
+                    "brand": "google",
+                    "currentRotation": "ROTATION_0",
+                    "rotationVars": {
+                        "portrait": "ROTATION_0",
+                        "landscape": "ROTATION_90",
+                        "upsideDown": "ROTATION_180",
+                        "seascape": "ROTATION_270"
+                    },
+                    "isSimulator": false
+                }
+            ],
+            "duration": 13326,
+            "appStartupDuration": 563,
+            "appVersions": [
+                {
+                    "packageName": "com.iotecksolutions.todoapp",
+                    "name": "1.0.0",
+                    "code": 2001,
+                    "minSdk": 16,
+                    "targetSdk": 28,
+                    "firstInstallTime": "2023-10-21 22:53:37",
+                    "lastUpdateTime": "2023-10-21 22:53:37"
+                }
+            ],
+            "wasSuccessful": true
+        },
+        {
+            "id": "f87bcc0f-49f3-47e8-865a-70ac69e082cb",
+            "date": 1710667360450,
+            "completed": true,
+            "stepResults": [],
+            "devices": [
+                {
+                    "os": "Android",
+                    "abi": "arm64-v8a",
+                    "sdk": "29",
+                    "osVersion": "10",
+                    "size": "1080x2220",
+                    "serial": "EMULATOR32X1X12X0",
+                    "name": "Android SDK built for arm64",
+                    "brand": "google",
+                    "currentRotation": "ROTATION_0",
+                    "rotationVars": {
+                        "portrait": "ROTATION_0",
+                        "landscape": "ROTATION_90",
+                        "upsideDown": "ROTATION_180",
+                        "seascape": "ROTATION_270"
+                    },
+                    "isSimulator": false
+                }
+            ],
+            "duration": 44227,
+            "appStartupDuration": 449,
+            "appVersions": [
+                {
+                    "packageName": "com.iotecksolutions.todoapp",
+                    "name": "1.0.0",
+                    "code": 2001,
+                    "minSdk": 16,
+                    "targetSdk": 28,
+                    "firstInstallTime": "2023-10-21 22:53:37",
+                    "lastUpdateTime": "2023-10-21 22:53:37"
+                }
+            ],
+            "wasSuccessful": true
+        },
+        {
+            "id": "64538b7e-210d-25cc-ae60-3c71235a0ac3",
+            "date": 1710668163162,
+            "completed": true,
+            "stepResults": [],
+            "devices": [
+                {
+                    "os": "Android",
+                    "abi": "arm64-v8a",
+                    "sdk": "29",
+                    "osVersion": "10",
+                    "size": "1080x2220",
+                    "serial": "EMULATOR32X1X12X0",
+                    "name": "Android SDK built for arm64",
+                    "brand": "google",
+                    "currentRotation": "ROTATION_0",
+                    "rotationVars": {
+                        "portrait": "ROTATION_0",
+                        "landscape": "ROTATION_90",
+                        "upsideDown": "ROTATION_180",
+                        "seascape": "ROTATION_270"
+                    },
+                    "isSimulator": false
+                }
+            ],
+            "duration": 16894,
+            "appStartupDuration": 338,
+            "appVersions": [
+                {
+                    "packageName": "com.iotecksolutions.todoapp",
+                    "name": "1.0.0",
+                    "code": 2001,
+                    "minSdk": 16,
+                    "targetSdk": 28,
+                    "firstInstallTime": "2023-10-21 22:53:37",
+                    "lastUpdateTime": "2023-10-21 22:53:37"
+                }
+            ],
+            "wasSuccessful": false
+        },
+        {
+            "id": "41dc71bc-2dcd-2ca1-c4ca-7288f2e2d0e3",
+            "date": 1710670336646,
+            "completed": true,
+            "stepResults": [
+                {
+                    "id": "b9524a77-fec4-be26-70b9-03719b912c20",
+                    "step": "7d789f5d-a4c8-c526-0a10-1dc6355d36c8",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "058ed943-bf06-8370-ff4f-606df62eeb1f-screenshot.jpg",
+                    "createdOn": 1710670336855,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "f2c73e1a-beb5-5aac-5170-3a55c7c962da",
+                    "step": "8bbfcb44-3ea5-b01a-226e-62298c02a851",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.4305555555555556,
+                                "y": 0.309009009009009
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9990893924826315
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "ddbb6047-89cc-bd02-5b2a-f01fc178c7be-screenshot.jpg",
+                    "createdOn": 1710670337912,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "7ed078c1-747b-a0fd-2c13-28deb16873fe",
+                    "step": "553e5a68-a3bc-4138-58ef-7e68fcebc79b",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.18333333333333332,
+                                "y": 0.4274774774774775
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "5a77838b-e352-cbbb-0b08-205d22764af8-screenshot.jpg",
+                    "createdOn": 1710670338136,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "50ad3924-fb94-a9e7-dcdd-c69ad6303f17",
+                    "step": "26602667-a119-ac74-c53a-09d31b734c89",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.037037037037037035,
+                                "y": 0.43198198198198196
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "804d4bac-022f-fb90-5a23-a1d3518f6078-screenshot.jpg",
+                    "createdOn": 1710670338359,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "e549cd60-8349-511a-3c24-940468c7e5ae",
+                    "step": "a23b85e1-2764-db55-8875-8b5faa81bcdc",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.037037037037037035,
+                                "y": 0.5135135135135135
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "f68e0437-bb81-0c63-89d2-9d6f14c8d3d6-screenshot.jpg",
+                    "createdOn": 1710670338611,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "40f662b0-4584-6669-c968-650606abaaf1",
+                    "step": "52c2f487-bf46-a1bc-8588-ddbdea8aab00",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.18703703703703703,
+                                "y": 0.42342342342342343
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999978542327881
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "91cff7fb-a69d-cdf3-f9b3-0f6a42e1e5ed-screenshot.jpg",
+                    "createdOn": 1710670338860,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "77cb74b8-b716-6ebe-acca-70b85cd768cf",
+                    "step": "5b26c101-ce9f-3c86-e498-1c1856b8002b",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "e38d1298-aee1-ccbe-a3df-afa916255d8f-screenshot.jpg",
+                    "createdOn": 1710670340034,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "3b5eec30-3a99-32bd-be57-8a8b7b57ceca",
+                    "step": "bcb57e7d-fc70-925a-efde-d510c493927e",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.18333333333333332,
+                                "y": 0.5112612612612613
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999965031941732
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "42e77fab-fd4a-7fa7-51aa-bdee1181dd9b-screenshot.jpg",
+                    "createdOn": 1710670340201,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "ebc36045-28fc-5e31-79fe-ecce1e4deda7",
+                    "step": "a1e18fc9-fc0d-8ad8-9c27-6bd8c7dafbf2",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "658f5d15-0bed-5ba4-22e0-6cd205efc3c1-screenshot.jpg",
+                    "createdOn": 1710670341397,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "6e6efb17-cce6-9d9e-1fbc-f7fb9665af22",
+                    "step": "1de07a08-3c8b-f916-31ba-52973bdf5706",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.462037037037037,
+                                "y": 0.627927927927928
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "00298777-da60-50bc-c002-76a43fb7a1d6-screenshot.jpg",
+                    "createdOn": 1710670341561,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "1fd9a2ce-5b27-83a8-46d1-50b6f82ec998",
+                    "step": "27db5451-e788-6926-d9b0-48601be66887",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.21621621621621623
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.8108108108108109
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.6126126126126126
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.4144144144144144
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999999205271403
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.5135135135135135
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9961747758231349
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.3153153153153153
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9961747758231349
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.11711711711711711
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9961714776994572
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.7117117117117117
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9961747758231349
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "613d655e-36eb-66a1-533f-60cc1c09ef89-screenshot.jpg",
+                    "createdOn": 1710670344306,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "7c393ecb-0217-d8b9-36c6-29dbe1712b1a",
+                    "step": "da7232e1-afe3-5208-d1ec-6a0845e0e5b4",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.20092592592592592,
+                                "y": 0.6297297297297297
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "1fb39740-825a-ee8d-585d-c3fe2cf486ec-screenshot.jpg",
+                    "createdOn": 1710670344975,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "35722fe9-2b02-6b1b-fe61-11e2bd722be6",
+                    "step": "1fa51f6f-7008-d561-d697-c0f7d2c4e862",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.041666666666666664,
+                                "y": 0.044144144144144144
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999999966576096
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "cab3cbaa-acda-ed2d-66fc-8788700c1e94-screenshot.jpg",
+                    "createdOn": 1710670345220,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "625f98ec-70f8-8ff6-830f-cb80397b6b42",
+                    "step": "ef5cc095-8004-2c28-9d90-f0de19a44ab6",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.6435185185185185,
+                                "y": 0.04234234234234234
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "52dc9c0d-767e-c822-d944-51b2fa69295d-screenshot.jpg",
+                    "createdOn": 1710670345400,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "e5b75e4c-c031-0eeb-3fdf-47ddacbe74dc",
+                    "step": "29dac698-58b8-fa3f-8bb2-1c18cba68cc6",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.8203703703703704,
+                                "y": 0.3545045045045045
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999996821085612
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "78c9776c-90b4-0781-25c2-a78e5adbd726-screenshot.jpg",
+                    "createdOn": 1710670346310,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "9efea8b3-6cee-1101-cc81-b62f02182735",
+                    "step": "3ddd3f00-eb63-072c-9b13-26f5f70cb932",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.7537037037037037,
+                                "y": 0.033783783783783786
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999993244806925
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "e0cb5a41-5cb9-6391-a0bf-10fde7d44da2-screenshot.jpg",
+                    "createdOn": 1710670346710,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "e5981926-0d32-7697-3e0e-36742cdee54d",
+                    "step": "73653fd8-d1bc-7ba4-9223-03347b4e17f3",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.26296296296296295,
+                                "y": 0.32837837837837835
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "351df9ad-96d4-dbb9-49d5-6b2e9fbe6873-screenshot.jpg",
+                    "createdOn": 1710670347796,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "ee40b0d9-f09a-7f84-4729-919eeeb07a1d",
+                    "step": "77facf53-2396-1fcb-c749-b693c0cf839f",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.8796296296296297,
+                                "y": 0.03783783783783784
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999998807907104
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "e446e346-7686-d9c0-e321-e9239f9e457b-screenshot.jpg",
+                    "createdOn": 1710670348042,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "b4e94c8b-f1b1-6325-cfe7-996b29a0e683",
+                    "step": "7570b4ee-82c2-b82d-de76-46dbbfbed085",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.4398148148148148,
+                                "y": 0.31576576576576576
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9985564230429803
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "05a0b917-de04-aa18-c6d6-4cc4325e6666-screenshot.jpg",
+                    "createdOn": 1710670348564,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "0112ea6b-52c4-b59a-e279-5a4f2e5927fc",
+                    "step": "f0adabd1-b0e7-3263-4889-db4da2d90b5b",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.1648148148148148,
+                                "y": 0.4274774774774775
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999998410542806
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "9e7a7fb5-496b-c383-2202-dce72b0b2bd7-screenshot.jpg",
+                    "createdOn": 1710670348751,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "2312e881-75e6-a2a2-3010-c03c62630e34",
+                    "step": "cb5e1066-891d-2514-cd3f-7e5e69327794",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "4243d520-ba86-58b8-a869-64e1c0d70626-screenshot.jpg",
+                    "createdOn": 1710670350357,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "d319e098-2290-f2c8-c389-ba49409aff71",
+                    "step": "ffc33cc6-8a0c-fcde-79f4-9fd98b606b10",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.1962962962962963,
+                                "y": 0.5072072072072072
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "36664ce8-0341-ae30-181b-2f9b4f050cca-screenshot.jpg",
+                    "createdOn": 1710670350505,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "4c8737f5-978e-6528-7bfb-9dd5ed4795a4",
+                    "step": "16a71925-1dfc-8fae-0ddf-7e2cd17bc0c6",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "b141b1eb-e567-fa55-9169-ea9ad9a5c6b1-screenshot.jpg",
+                    "createdOn": 1710670351682,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "43840b34-23eb-a034-7d30-25cc2182f52f",
+                    "step": "767f822c-faa9-c080-ccb1-5be794558dc5",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.4305555555555556,
+                                "y": 0.631981981981982
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "a80b7c83-197e-04f3-3c7a-cf9c05589af2-screenshot.jpg",
+                    "createdOn": 1710670351831,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "9fb66e9f-54a0-d7a2-1c70-7b03fd42c09a",
+                    "step": "0843f4cd-4563-a80a-1c03-493132381f56",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.16111111111111112,
+                                "y": 0.23378378378378378
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "5db9743e-873c-aecc-543a-47396e5b588f-screenshot.jpg",
+                    "createdOn": 1710670354500,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "226498b7-ee66-c97f-718e-01b89be5d698",
+                    "step": "a853804d-3a9d-29ee-4656-ff2f81e3d790",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.7666666666666667,
+                                "y": 0.033783783783783786
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "722db2ad-65b3-4c08-ae16-fb6cc3f282bf-screenshot.jpg",
+                    "createdOn": 1710670355160,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "8a9ea88d-17b5-a0ea-4425-8260e7c3f4ae",
+                    "step": "1c23259f-c737-ddcc-9628-69c971a03c73",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.21851851851851853,
+                                "y": 0.23603603603603604
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999938011169434
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "774e2406-5957-b934-5dfa-6f689266ac2f-screenshot.jpg",
+                    "createdOn": 1710670355858,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "388b1cb7-7534-ccab-2374-6c91dc1ac4cd",
+                    "step": "302baf5d-7274-192d-691c-498176f138df",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.8796296296296297,
+                                "y": 0.044144144144144144
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "81b19be3-e8e8-cee3-ea70-8c8c1729084b-screenshot.jpg",
+                    "createdOn": 1710670356517,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "5fa18776-1106-6f89-0794-627ec05aba7d",
+                    "step": "bc4fd7d8-e478-6ac7-7871-d2d16e082faa",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.4305555555555556,
+                                "y": 0.309009009009009
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999998783795263
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "252ed961-9af6-1d29-e228-f3bcb5bad298-screenshot.jpg",
+                    "createdOn": 1710670357069,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "180de3ab-7335-95f6-07b2-02587088ea45",
+                    "step": "207ebaf6-2273-301e-fe8f-1e776dc2d901",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.18333333333333332,
+                                "y": 0.4274774774774775
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "6f4ac2c5-2a0b-4ca9-3e70-b55470091eee-screenshot.jpg",
+                    "createdOn": 1710670357259,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "b82d2943-8d97-8716-695d-895959919694",
+                    "step": "e984f30a-90e7-1996-294c-87903fcffc02",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.037037037037037035,
+                                "y": 0.43198198198198196
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "113175bb-c61c-a7a6-4a18-d6b7779570c6-screenshot.jpg",
+                    "createdOn": 1710670357922,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "0f16a65e-c44f-c4e8-21b7-6f53b34546fd",
+                    "step": "e6487de4-c71b-5fd3-9ba2-84c117032403",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.037037037037037035,
+                                "y": 0.5135135135135135
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "38beed3e-68b6-e043-163b-be5040df85af-screenshot.jpg",
+                    "createdOn": 1710670358152,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "fa95bf03-8221-bc56-c8f4-ffd816cab0ec",
+                    "step": "dcd94873-1bb0-be3c-1b78-a4c6859b1316",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.18703703703703703,
+                                "y": 0.42342342342342343
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999978542327881
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "d88ebf7b-fcc5-21e8-c7dd-13b2b939c6c3-screenshot.jpg",
+                    "createdOn": 1710670358398,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "78221836-8249-6f04-7ce3-b338d16d83b3",
+                    "step": "172a14c8-34a1-a035-8353-35bd5bff08fe",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "f753ba92-4e4b-fe47-af26-93cd817c01bf-screenshot.jpg",
+                    "createdOn": 1710670359618,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "a7d12409-a850-beef-f34e-bf59cbee96e9",
+                    "step": "fea74011-1849-492f-7d57-fa5bf2ceb9a7",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.18333333333333332,
+                                "y": 0.5112612612612613
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999965031941732
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "3268a53d-3b1f-d068-4dd0-6252ac3258b4-screenshot.jpg",
+                    "createdOn": 1710670359783,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "740d02cb-7e1e-ca3f-e64f-9c08da978f09",
+                    "step": "a4a98175-f9f6-af3f-6387-da06d88f1b2a",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "9d2c01ca-ff69-2c32-2c1b-25d44630c934-screenshot.jpg",
+                    "createdOn": 1710670360976,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "1bc40b36-4939-ab2f-0fd8-0e3c2ba3a395",
+                    "step": "7559520f-4915-fbdc-2527-bfb970076e32",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.462037037037037,
+                                "y": 0.627927927927928
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "1611af94-adc8-11b3-adf8-0340d5803c96-screenshot.jpg",
+                    "createdOn": 1710670361141,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "a80b02e0-feab-0a2e-c595-0c4f88db389e",
+                    "step": "426c7fed-ab61-187d-9b88-79e0fc0abfd8",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.21621621621621623
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.8108108108108109
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.6126126126126126
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.4144144144144144
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999999205271403
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.5135135135135135
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9961747758231349
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.3153153153153153
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9961747758231349
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.11711711711711711
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9961714776994572
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.7117117117117117
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9961747758231349
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "f5081884-2d25-6bb9-149b-5f64d10ba438-screenshot.jpg",
+                    "createdOn": 1710670363869,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "2c2e2a9b-4abc-5ecf-cf98-ae45934e53f2",
+                    "step": "2337f54e-7a83-7271-9b6f-c8429c3fdad0",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.20092592592592592,
+                                "y": 0.6297297297297297
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "15beff5c-7835-6a02-7008-46d1a9e8ef14-screenshot.jpg",
+                    "createdOn": 1710670364527,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "d5757639-1588-4ac8-2441-815c58518f9e",
+                    "step": "32b14bdb-1586-8539-32a6-4a560e712d9b",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.041666666666666664,
+                                "y": 0.044144144144144144
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999999966576096
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "15817a40-95b7-6b06-a89b-74915f589069-screenshot.jpg",
+                    "createdOn": 1710670364777,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "02038272-4aa9-214c-74db-195b5595479d",
+                    "step": "be71dc83-0a35-e707-6b6b-0b8bdf486ca9",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.6435185185185185,
+                                "y": 0.04234234234234234
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "06397472-4a63-2e18-83ef-a070cb2084f6-screenshot.jpg",
+                    "createdOn": 1710670364964,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "d607abb0-b45f-595a-85a2-ae610bfc9124",
+                    "step": "d23085b6-c5a6-0a2b-57fb-47a504dfdb7d",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.8203703703703704,
+                                "y": 0.3545045045045045
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999996821085612
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "bf4255e4-c524-bfe5-976c-3e77e769f853-screenshot.jpg",
+                    "createdOn": 1710670365875,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "2cfa7d83-b081-d032-ec80-10db8aa0af28",
+                    "step": "6dcbb77d-084e-f47b-6f31-49d30cffda99",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.7537037037037037,
+                                "y": 0.033783783783783786
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999993244806925
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "e5003453-b9be-3ae8-9786-91eab5175df3-screenshot.jpg",
+                    "createdOn": 1710670366284,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "c5eaf009-d344-0844-fffe-cf49b887e84f",
+                    "step": "394b8f8c-b424-ea76-222c-63b406b9dd4d",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.26296296296296295,
+                                "y": 0.32837837837837835
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "5631c196-ce5e-76ef-6d5c-05353da08bf8-screenshot.jpg",
+                    "createdOn": 1710670366878,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "4d67d548-9e47-22b3-b24d-2f7fa4300b4d",
+                    "step": "4d3a525b-a787-9135-7fbf-1c1a64dac0f8",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.8796296296296297,
+                                "y": 0.03783783783783784
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999998807907104
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "78366803-9228-0c0c-b3ce-b4496f0d384d-screenshot.jpg",
+                    "createdOn": 1710670367139,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "dac171d7-ad59-f71e-8294-d49a38bbdf1b",
+                    "step": "6d14aed6-f664-30b8-31ae-64eba2dc40ba",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.4398148148148148,
+                                "y": 0.31576576576576576
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999998910280871
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "69938e2b-7db0-89b3-3680-9c014bfb9423-screenshot.jpg",
+                    "createdOn": 1710670367734,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "55aab89f-dd48-81f6-8637-35722bb1829b",
+                    "step": "85bc855d-080f-4949-eaa1-d863959fdb4d",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.1648148148148148,
+                                "y": 0.4274774774774775
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999998410542806
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "5af3ed08-ee04-f704-a89c-5b4bdf192997-screenshot.jpg",
+                    "createdOn": 1710670367911,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "5f68adc0-3d83-8869-fe9e-45cc772d33d5",
+                    "step": "72f82d64-8a6f-9711-a019-20872f315082",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "cd5a5687-0e64-4925-f823-bb58c4a79e5b-screenshot.jpg",
+                    "createdOn": 1710670369615,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "15977380-37c2-10c4-40ed-e81bbad92750",
+                    "step": "1f26d5f8-c796-2092-a729-27933ba88e4e",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.1962962962962963,
+                                "y": 0.5072072072072072
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "4158b635-c62f-e1ec-b004-a254f7766cfa-screenshot.jpg",
+                    "createdOn": 1710670369774,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "8f4bf83c-f4f9-9e66-082f-a9703157ac60",
+                    "step": "3312b160-15fb-283c-d74c-d59a704978c3",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "26cefe0b-8287-c9e1-6820-9719e7376fad-screenshot.jpg",
+                    "createdOn": 1710670370966,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "fad55ae2-ca57-99df-eea4-1657c865d1df",
+                    "step": "16f2769f-0358-f554-62f0-d4b133f88550",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.4305555555555556,
+                                "y": 0.631981981981982
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "51d7caaa-297a-07f3-1a81-c0eb990beaf7-screenshot.jpg",
+                    "createdOn": 1710670371132,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "5fc1945d-0b99-35d1-62da-df03978f3fb7",
+                    "step": "8bf09a34-f43d-2a5f-1427-4c8603755984",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.16111111111111112,
+                                "y": 0.23378378378378378
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "811d6538-fb57-7d86-eb4c-db4039853008-screenshot.jpg",
+                    "createdOn": 1710670373813,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "e228d21e-6958-f0a9-7eb0-41d6e604b07f",
+                    "step": "b836c587-dee0-4f2d-3a10-aa9c845a29d2",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.7666666666666667,
+                                "y": 0.033783783783783786
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "5b8543f2-aba8-2061-a121-a339a113e0f4-screenshot.jpg",
+                    "createdOn": 1710670374473,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "326e3ec3-b691-1390-eefd-5ab026467c32",
+                    "step": "dbaef1ff-d3c7-71de-98ae-759c6954d684",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.21851851851851853,
+                                "y": 0.23603603603603604
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9999938011169434
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "8f1a6019-58c6-7cfa-c93d-7510d9ffd407-screenshot.jpg",
+                    "createdOn": 1710670375159,
+                    "executedOn": "Android SDK built for arm64"
+                },
+                {
+                    "id": "bf2c3b70-6f43-28d2-ada3-86da86240420",
+                    "step": "54e1606b-54c1-5bb4-e475-a3c04bb179d9",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.8796296296296297,
+                                "y": 0.044144144144144144
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 1
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "6c1c0dfb-59c9-3744-d40d-f2aa475963ba-screenshot.jpg",
+                    "createdOn": 1710670375412,
+                    "executedOn": "Android SDK built for arm64"
+                }
+            ],
+            "devices": [
+                {
+                    "os": "Android",
+                    "abi": "arm64-v8a",
+                    "sdk": "29",
+                    "osVersion": "10",
+                    "size": "1080x2220",
+                    "serial": "EMULATOR32X1X12X0",
+                    "name": "Android SDK built for arm64",
+                    "brand": "google",
+                    "currentRotation": "ROTATION_0",
+                    "rotationVars": {
+                        "portrait": "ROTATION_0",
+                        "landscape": "ROTATION_90",
+                        "upsideDown": "ROTATION_180",
+                        "seascape": "ROTATION_270"
+                    },
+                    "isSimulator": false
+                }
+            ],
+            "duration": 38954,
+            "appStartupDuration": 313,
+            "appVersions": [
+                {
+                    "packageName": "com.iotecksolutions.todoapp",
+                    "name": "1.0.0",
+                    "code": 2001,
+                    "minSdk": 16,
+                    "targetSdk": 28,
+                    "firstInstallTime": "2023-10-21 22:53:37",
+                    "lastUpdateTime": "2023-10-21 22:53:37"
+                }
+            ],
+            "wasSuccessful": true
+        },
+        {
+            "id": "04a3407f-94f9-a65a-7ef0-cebb0c3d01fe",
+            "date": 1710672544347,
+            "completed": true,
+            "stepResults": [
+                {
+                    "id": "10fe1b53-d469-af33-1b62-e4fbc090e93a",
+                    "step": "7d789f5d-a4c8-c526-0a10-1dc6355d36c8",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "86e03e76-318b-4d84-240a-9e8f04d05b0d-screenshot.jpg",
+                    "createdOn": 1710672546144,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "14ce37ac-ceef-58b0-2dbb-bf957ac46d8e",
+                    "step": "8bbfcb44-3ea5-b01a-226e-62298c02a851",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.4305555555555556,
+                                "y": 0.309009009009009
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9996087507167651
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "84862c28-19d4-9e86-581b-73de0116e24f-screenshot.jpg",
+                    "createdOn": 1710672546847,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "c13997dc-ebb2-748c-fe54-3979fc7b2133",
+                    "step": "553e5a68-a3bc-4138-58ef-7e68fcebc79b",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.18333333333333332,
+                                "y": 0.4274774774774775
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9994389300891755
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "420d00d9-ccad-842b-d696-74958216df2a-screenshot.jpg",
+                    "createdOn": 1710672547030,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "8d741630-c570-0528-e6d8-5a40fd8bd95f",
+                    "step": "26602667-a119-ac74-c53a-09d31b734c89",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.037037037037037035,
+                                "y": 0.43198198198198196
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9996354703686253
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "0b1af911-6db6-f9d2-8c2f-6bc8c91211aa-screenshot.jpg",
+                    "createdOn": 1710672547188,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "132d1989-d484-e37f-e7ff-79a1bd028811",
+                    "step": "a23b85e1-2764-db55-8875-8b5faa81bcdc",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.037037037037037035,
+                                "y": 0.5135135135135135
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9994246674518448
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "1a015487-a792-7d65-a35d-a340d786f561-screenshot.jpg",
+                    "createdOn": 1710672547345,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "83e11997-631f-75b2-216c-5a6ee7cc2983",
+                    "step": "52c2f487-bf46-a1bc-8588-ddbdea8aab00",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.18703703703703703,
+                                "y": 0.42342342342342343
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.995453047488308
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "94f7e1dd-7954-081a-094e-034a8a10065e-screenshot.jpg",
+                    "createdOn": 1710672547516,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "c4cd0441-26de-f8f7-74dd-2cd27b6534f6",
+                    "step": "5b26c101-ce9f-3c86-e498-1c1856b8002b",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "c4467258-26e4-62fa-8ddd-057a8658c868-screenshot.jpg",
+                    "createdOn": 1710672548916,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "1ad65dd3-c4fa-03d8-fbb0-20bbf9a04276",
+                    "step": "bcb57e7d-fc70-925a-efde-d510c493927e",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.18333333333333332,
+                                "y": 0.5112612612612613
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9992615411838773
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "b845a8fd-b242-7242-307f-e7fd1604f81c-screenshot.jpg",
+                    "createdOn": 1710672549130,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "30ac3ca9-d248-24b0-c95e-21fae43ae7da",
+                    "step": "a1e18fc9-fc0d-8ad8-9c27-6bd8c7dafbf2",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "a2b52438-bdbb-2582-796b-1b034c7a343e-screenshot.jpg",
+                    "createdOn": 1710672550592,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "ad9d1f9a-b6d8-588d-9143-091d28fbbdc0",
+                    "step": "1de07a08-3c8b-f916-31ba-52973bdf5706",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.462037037037037,
+                                "y": 0.627927927927928
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9991018483187207
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "a610358a-b028-3aa5-1c4c-8625ab916aea-screenshot.jpg",
+                    "createdOn": 1710672551142,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "d6fc8e21-b194-00a8-6f6d-23e9e7a87130",
+                    "step": "27db5451-e788-6926-d9b0-48601be66887",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.4144144144144144
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9993013584091059
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.21621621621621623
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9993013584091059
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.6126126126126126
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9992981000218583
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.8108108108108109
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9993013584091059
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.3153153153153153
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9960374103518809
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.11711711711711711
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9960357414218272
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.7117117117117117
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9960357414218272
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.5135135135135135
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9960374103518809
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "ca44fcbd-25ed-df03-76d2-72b7325832aa-screenshot.jpg",
+                    "createdOn": 1710672554045,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "96598865-18da-c8fb-2efa-d7c2953a4b5f",
+                    "step": "da7232e1-afe3-5208-d1ec-6a0845e0e5b4",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.20092592592592592,
+                                "y": 0.6297297297297297
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9995283057318499
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "4de11055-e74e-4933-7dbb-399ef059a017-screenshot.jpg",
+                    "createdOn": 1710672554690,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "4d72f91f-d8f4-a5de-d389-1d3de97553cc",
+                    "step": "1fa51f6f-7008-d561-d697-c0f7d2c4e862",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.041666666666666664,
+                                "y": 0.044144144144144144
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9997279301869009
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "f2283608-52d2-042b-fbc3-f971da535434-screenshot.jpg",
+                    "createdOn": 1710672554919,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "41be0258-8828-8836-c765-41ec37408359",
+                    "step": "ef5cc095-8004-2c28-9d90-f0de19a44ab6",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.6435185185185185,
+                                "y": 0.04234234234234234
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9994157472050212
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "485d9445-5c16-9bd7-346f-af1e87d31421-screenshot.jpg",
+                    "createdOn": 1710672555030,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "1f3a352a-46e8-6914-4e9a-9346c439a4cf",
+                    "step": "29dac698-58b8-fa3f-8bb2-1c18cba68cc6",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.8203703703703704,
+                                "y": 0.3545045045045045
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9980110282100619
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "15dc2a03-530a-f460-7f87-d21ec8a8b46b-screenshot.jpg",
+                    "createdOn": 1710672555911,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "e6183b23-4d09-673d-f146-d0d42aafae7b",
+                    "step": "3ddd3f00-eb63-072c-9b13-26f5f70cb932",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.7537037037037037,
+                                "y": 0.033783783783783786
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9993582966867587
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "8279a748-89fa-501c-b44d-cea43e7cde97-screenshot.jpg",
+                    "createdOn": 1710672556354,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "c7389301-7d2d-1dab-d0fa-18756c3f9ab6",
+                    "step": "73653fd8-d1bc-7ba4-9223-03347b4e17f3",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.26296296296296295,
+                                "y": 0.32837837837837835
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.99891872131365
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "e7134538-a584-bfa4-116b-143f81b4ae7b-screenshot.jpg",
+                    "createdOn": 1710672556883,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "5f4a0a16-f4e0-cc03-488b-c8b59d7103ce",
+                    "step": "77facf53-2396-1fcb-c749-b693c0cf839f",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.8796296296296297,
+                                "y": 0.03783783783783784
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9981179205115792
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "b224f0ad-e1c1-42bc-2c1d-84fb4b4a76c9-screenshot.jpg",
+                    "createdOn": 1710672557096,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "6249b3c7-30ca-42bb-a9c6-b26692688b98",
+                    "step": "7570b4ee-82c2-b82d-de76-46dbbfbed085",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.4398148148148148,
+                                "y": 0.31576576576576576
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.998492422067061
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "77a21527-d48d-4735-f301-0514fa1098ab-screenshot.jpg",
+                    "createdOn": 1710672557618,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "5165cac1-bfb5-51a7-ceb1-b5f979e0d93d",
+                    "step": "f0adabd1-b0e7-3263-4889-db4da2d90b5b",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.1648148148148148,
+                                "y": 0.4274774774774775
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9991734841588231
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "f30e5052-1cfc-23dc-ab37-faeedde1e377-screenshot.jpg",
+                    "createdOn": 1710672557733,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "0d48e603-f3db-9958-8b83-bf5fb17afcc7",
+                    "step": "cb5e1066-891d-2514-cd3f-7e5e69327794",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "500db78c-f894-48eb-c974-06798442dea6-screenshot.jpg",
+                    "createdOn": 1710672559529,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "f8ddcd65-5395-4d12-c107-b790e658cdd9",
+                    "step": "ffc33cc6-8a0c-fcde-79f4-9fd98b606b10",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.1962962962962963,
+                                "y": 0.5072072072072072
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9991753409024741
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "f57e09af-2dfa-5986-d561-3ddbd62ce528-screenshot.jpg",
+                    "createdOn": 1710672559643,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "5f7dde34-2120-440e-1f09-1083fa9577d7",
+                    "step": "16a71925-1dfc-8fae-0ddf-7e2cd17bc0c6",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "df92d1b1-29e6-1436-83e3-aa7b294fb52b-screenshot.jpg",
+                    "createdOn": 1710672561410,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "4c2ff46e-3fbb-dcef-fc84-85a737279530",
+                    "step": "767f822c-faa9-c080-ccb1-5be794558dc5",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.4305555555555556,
+                                "y": 0.631981981981982
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9994928555915598
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "88ca55bd-43bf-ea27-c840-04a1e1ccce1c-screenshot.jpg",
+                    "createdOn": 1710672561543,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "695e41ae-f4fb-f70f-bae1-42db0f1420fc",
+                    "step": "0843f4cd-4563-a80a-1c03-493132381f56",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.16111111111111112,
+                                "y": 0.23378378378378378
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9982387104711764
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "158cd811-9513-e5ce-fd8c-6e45266af1c1-screenshot.jpg",
+                    "createdOn": 1710672564656,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "54f463d5-e5fc-a05b-e616-fc886c85d67d",
+                    "step": "a853804d-3a9d-29ee-4656-ff2f81e3d790",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.7666666666666667,
+                                "y": 0.033783783783783786
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9997265593979151
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "367da73d-5eb4-90a3-5b27-76d0f39cc162-screenshot.jpg",
+                    "createdOn": 1710672565207,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "11f99243-6d23-f99f-7d65-216b9234fab5",
+                    "step": "1c23259f-c737-ddcc-9628-69c971a03c73",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.21851851851851853,
+                                "y": 0.23603603603603604
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9994337843375259
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "c4515b5c-bf56-151c-28ff-f177d9800f2d-screenshot.jpg",
+                    "createdOn": 1710672565841,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "5e51232d-ac8c-1521-f0c4-bdd63ada7d47",
+                    "step": "302baf5d-7274-192d-691c-498176f138df",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.8796296296296297,
+                                "y": 0.044144144144144144
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9991687002223334
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "60253c44-7bfe-4536-77ee-8fdf39d4350c-screenshot.jpg",
+                    "createdOn": 1710672566056,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "191ba931-7338-a038-5e4d-35e2d31d5a12",
+                    "step": "bc4fd7d8-e478-6ac7-7871-d2d16e082faa",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.4305555555555556,
+                                "y": 0.309009009009009
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9990937726736556
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "7895002b-795d-2fdd-bea4-6a5463ca9bce-screenshot.jpg",
+                    "createdOn": 1710672566559,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "abdc52f9-e75e-9ba7-7c73-d09f7370b3d2",
+                    "step": "207ebaf6-2273-301e-fe8f-1e776dc2d901",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.18333333333333332,
+                                "y": 0.4274774774774775
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9994389300891755
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "6f8755b3-c926-d622-3f8d-c9aeb3675236-screenshot.jpg",
+                    "createdOn": 1710672566671,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "c6a717ef-16fe-34f0-9e2f-cc3dadee4756",
+                    "step": "e984f30a-90e7-1996-294c-87903fcffc02",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.037037037037037035,
+                                "y": 0.43198198198198196
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9996354703686253
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "57e371dc-70f1-5463-457e-37a304b4f410-screenshot.jpg",
+                    "createdOn": 1710672567319,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "54d9aee1-e6be-7994-8d4d-e1da71c980e3",
+                    "step": "e6487de4-c71b-5fd3-9ba2-84c117032403",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.037037037037037035,
+                                "y": 0.5135135135135135
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9994246674518448
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "125b8d48-db6a-a722-8749-62143924a78d-screenshot.jpg",
+                    "createdOn": 1710672567473,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "7fe4fa7c-71fe-6740-6983-5ff6954e56e8",
+                    "step": "dcd94873-1bb0-be3c-1b78-a4c6859b1316",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.18703703703703703,
+                                "y": 0.42342342342342343
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.995453047488308
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "2c0540d2-f94d-13d4-c018-051f265bcd7f-screenshot.jpg",
+                    "createdOn": 1710672567628,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "2efe77d6-4abe-fbfb-913b-c0b010723dd7",
+                    "step": "172a14c8-34a1-a035-8353-35bd5bff08fe",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "f8c56269-5233-ac40-ffc8-b5cf5abe39c0-screenshot.jpg",
+                    "createdOn": 1710672569024,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "d6a5e6d5-ad5f-38e5-5d1a-a8dffce1620e",
+                    "step": "fea74011-1849-492f-7d57-fa5bf2ceb9a7",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.18333333333333332,
+                                "y": 0.5112612612612613
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9992615411838773
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "e616e5ea-582b-0283-d8f3-15804164c2b5-screenshot.jpg",
+                    "createdOn": 1710672569151,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "8c62fd3f-7428-90e3-72d1-ad8b045357c5",
+                    "step": "a4a98175-f9f6-af3f-6387-da06d88f1b2a",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "00fe7329-3a64-1389-70b4-a4ba40390f3d-screenshot.jpg",
+                    "createdOn": 1710672570961,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "482ea7f0-3bd8-b56b-2e08-366125d8ac52",
+                    "step": "7559520f-4915-fbdc-2527-bfb970076e32",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.462037037037037,
+                                "y": 0.627927927927928
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9991018483187207
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "fcffff8d-72bb-ca02-dec4-6df4accd85a9-screenshot.jpg",
+                    "createdOn": 1710672571085,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "42254341-36f3-7d10-4487-2b96f925fa83",
+                    "step": "426c7fed-ab61-187d-9b88-79e0fc0abfd8",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.4144144144144144
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9993013584091059
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.21621621621621623
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9993013584091059
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.6126126126126126
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9992981000218583
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.8108108108108109
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9993013584091059
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.3153153153153153
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9960374103518809
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.11711711711711711
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9960357414218272
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.7117117117117117
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9960357414218272
+                        },
+                        {
+                            "position": {
+                                "x": 0.027777777777777776,
+                                "y": 0.5135135135135135
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9960374103518809
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "f353b0cc-f731-08d8-4401-30af3f818288-screenshot.jpg",
+                    "createdOn": 1710672574216,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "9369ac34-e9ac-1206-a651-1bf580427d01",
+                    "step": "2337f54e-7a83-7271-9b6f-c8429c3fdad0",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.20092592592592592,
+                                "y": 0.6297297297297297
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9995283057318499
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "69f8cce1-f93f-8c91-de46-92ed31e99901-screenshot.jpg",
+                    "createdOn": 1710672574852,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "d749b1b2-2b3c-a179-c983-288fe4c1f7b4",
+                    "step": "32b14bdb-1586-8539-32a6-4a560e712d9b",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.041666666666666664,
+                                "y": 0.044144144144144144
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9997279301869009
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "f8836622-df5b-0a95-67e4-3bcb2c52a7e5-screenshot.jpg",
+                    "createdOn": 1710672575066,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "7a87483c-f3e7-cfcd-fa57-70603526b1e1",
+                    "step": "be71dc83-0a35-e707-6b6b-0b8bdf486ca9",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.6435185185185185,
+                                "y": 0.04234234234234234
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9994157472050212
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "a439c49e-af68-1541-e904-872ee387abbf-screenshot.jpg",
+                    "createdOn": 1710672575178,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "cc63a939-90b0-37ff-27e2-40389d913876",
+                    "step": "d23085b6-c5a6-0a2b-57fb-47a504dfdb7d",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.8203703703703704,
+                                "y": 0.3545045045045045
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9980110282100619
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "c5eaa477-0a67-4f7b-58a0-76fc2a24aff2-screenshot.jpg",
+                    "createdOn": 1710672575996,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "31b6b265-d3a9-6927-9567-4f98a577c7f5",
+                    "step": "6dcbb77d-084e-f47b-6f31-49d30cffda99",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.7537037037037037,
+                                "y": 0.033783783783783786
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9993582966867587
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "c5ff5b93-bb5c-d73f-64dd-d7ec771fda10-screenshot.jpg",
+                    "createdOn": 1710672576404,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "9099751b-22b2-0f01-2ab9-7b6fafbbba86",
+                    "step": "394b8f8c-b424-ea76-222c-63b406b9dd4d",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.26296296296296295,
+                                "y": 0.32837837837837835
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.99891872131365
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "2d50406f-ddf5-19d7-b31b-85d9b622da3e-screenshot.jpg",
+                    "createdOn": 1710672577095,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "442bada7-cae0-0591-b512-a0133432d1a2",
+                    "step": "4d3a525b-a787-9135-7fbf-1c1a64dac0f8",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.8796296296296297,
+                                "y": 0.03783783783783784
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9981179205115792
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "bae8a12d-768c-7d53-e577-d5568323784b-screenshot.jpg",
+                    "createdOn": 1710672577716,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "d7fb97de-87b8-1e17-2807-4dba43475566",
+                    "step": "6d14aed6-f664-30b8-31ae-64eba2dc40ba",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.4398148148148148,
+                                "y": 0.31576576576576576
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9994926792095785
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "f1dff7f0-670d-fab0-d859-02b12d670bb9-screenshot.jpg",
+                    "createdOn": 1710672578238,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "7a04d705-e9aa-6603-8895-757f31e434dc",
+                    "step": "85bc855d-080f-4949-eaa1-d863959fdb4d",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.1648148148148148,
+                                "y": 0.4274774774774775
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9991734841588231
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "09b09c86-b388-274a-0f14-b000ca32d73c-screenshot.jpg",
+                    "createdOn": 1710672578356,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "1c21300d-28a8-560a-b740-66b1bf654302",
+                    "step": "72f82d64-8a6f-9711-a019-20872f315082",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "dee74f9b-ebd2-29d2-334b-cd9eae4c0aad-screenshot.jpg",
+                    "createdOn": 1710672580160,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "2379ed76-598c-81bf-f4b9-17c8d15296a5",
+                    "step": "1f26d5f8-c796-2092-a729-27933ba88e4e",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.1962962962962963,
+                                "y": 0.5072072072072072
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9991753409024741
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "748b9460-f4a2-6300-afbc-4cc9106f3e3c-screenshot.jpg",
+                    "createdOn": 1710672580285,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "dc0026ad-ed93-73a3-17a6-f19296236729",
+                    "step": "3312b160-15fb-283c-d74c-d59a704978c3",
+                    "matches": [],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "fbb9f1e1-38c8-375a-a7c1-63ee3fcaa25b-screenshot.jpg",
+                    "createdOn": 1710672582083,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "14337c50-fb4c-6697-2690-91fa5d220f25",
+                    "step": "16f2769f-0358-f554-62f0-d4b133f88550",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.4305555555555556,
+                                "y": 0.631981981981982
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9994928555915598
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "5a686470-110c-08da-523f-ff3d91d62e6e-screenshot.jpg",
+                    "createdOn": 1710672582211,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "e906affe-a059-010f-a098-bc1258321e6c",
+                    "step": "8bf09a34-f43d-2a5f-1427-4c8603755984",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.16111111111111112,
+                                "y": 0.23378378378378378
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9982387104711764
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "99c60cf8-22c8-e91a-6326-fe7a1f286b32-screenshot.jpg",
+                    "createdOn": 1710672585308,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "608ed9ca-2ff9-1932-d7b2-7f2354924d30",
+                    "step": "b836c587-dee0-4f2d-3a10-aa9c845a29d2",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.7666666666666667,
+                                "y": 0.033783783783783786
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9997265593979151
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "246300e5-0f60-82e5-9007-7ae94f0638c4-screenshot.jpg",
+                    "createdOn": 1710672585963,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "61d53bd5-b67d-b270-2509-de7baaddffbe",
+                    "step": "dbaef1ff-d3c7-71de-98ae-759c6954d684",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.21851851851851853,
+                                "y": 0.23603603603603604
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9933605428612305
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "ad02b7e0-a1fa-1374-a426-1e9e6e6bb3c9-screenshot.jpg",
+                    "createdOn": 1710672586576,
+                    "executedOn": "Pixel_3a_API_29"
+                },
+                {
+                    "id": "dd544282-64f1-d2b8-941a-ad166a0470d3",
+                    "step": "54e1606b-54c1-5bb4-e475-a3c04bb179d9",
+                    "matches": [
+                        {
+                            "position": {
+                                "x": 0.8796296296296297,
+                                "y": 0.044144144144144144
+                            },
+                            "size": {
+                                "width": 0.11944444444444445,
+                                "height": 0.03963963963963964
+                            },
+                            "probability": 0.9991687002223334
+                        }
+                    ],
+                    "scaleFactor": 1,
+                    "success": true,
+                    "message": "",
+                    "screenshot": "efc5552b-b00a-2d63-f824-e859cf332889-screenshot.jpg",
+                    "createdOn": 1710672586744,
+                    "executedOn": "Pixel_3a_API_29"
+                }
+            ],
+            "devices": [
+                {
+                    "os": "Android",
+                    "abi": "arm64-v8a",
+                    "sdk": "29",
+                    "osVersion": "10",
+                    "size": "1080x2220",
+                    "serial": "EMULATOR32X1X12X0",
+                    "deviceId": "emulator-5554",
+                    "name": "Pixel_3a_API_29",
+                    "brand": "google",
+                    "currentRotation": "ROTATION_0",
+                    "rotationVars": {
+                        "portrait": "ROTATION_0",
+                        "landscape": "ROTATION_90",
+                        "upsideDown": "ROTATION_180",
+                        "seascape": "ROTATION_270"
+                    },
+                    "isSimulator": true
+                }
+            ],
+            "duration": 42804,
+            "appStartupDuration": 682,
+            "appVersions": [
+                {
+                    "packageName": "com.iotecksolutions.todoapp",
+                    "name": "1.0.0",
+                    "code": 2001,
+                    "minSdk": 16,
+                    "targetSdk": 28,
+                    "firstInstallTime": "2023-10-21 22:53:37",
+                    "lastUpdateTime": "2023-10-21 22:53:37"
+                }
+            ],
+            "wasSuccessful": true
+        }
+    ],
+    "testRunExports": []
+}

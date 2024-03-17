@@ -1,6 +1,5 @@
 {
-  "version": 14,
-  "tests": [],
+  "version": 15,
   "testBatches": [
     {
       "id": "0",
@@ -117,78 +116,9 @@
       }
     ]
   },
-  "batchRunner": {
-    "testBatch": "0",
-    "currentExceptionHandlerIndex": 0,
-    "currentTestIndex": 39,
-    "testRunner": {
-      "id": "782b3777-79ce-6194-1b90-7d29e0779409",
-      "currentTest": "8e06c7e2-5e5f-e98c-1e0e-ad8e81611eb7",
-      "currentStepIndex": 54,
-      "stopExecutionOnStepIndex": -1,
-      "defaultSearchTimeout": 8000,
-      "subTestRunners": [],
-      "rootTestRunner": "782b3777-79ce-6194-1b90-7d29e0779409"
-    },
-    "batchRun": {
-      "id": "1d63f069-7738-a87c-aac0-3f2f701191c1",
-      "batchId": "0",
-      "title": "Default Test Batch",
-      "tests": [
-        "3972f045-5d21-efde-71bb-99d669887c38",
-        "15e2ce90-fc97-dd4e-69dc-9d14567e14a1",
-        "707bc661-49ff-c6a5-1906-09ead50ce748",
-        "314538bd-8789-70e3-1f33-654021da240f",
-        "65fee09b-926e-db2d-c138-962decdfb351",
-        "4363d68f-2a23-de23-feb7-d56c45439701",
-        "08f45e7b-ef26-2349-3e15-3148f70bdde8",
-        "1f47e3e9-3c85-6c64-b49b-d00674c83748",
-        "22da4992-7cdf-093c-8fd6-b31248090f54",
-        "c31ed341-b22b-81ab-632e-cad33d4b9ac4",
-        "8732bb70-e25d-32ce-a8a9-0a08ae997b57",
-        "9ae028cf-2922-fb3c-ea78-0aef4cbb265b",
-        "8a6f2375-b800-4967-2839-cdd3830c1de3",
-        "06503f05-9a45-ce5c-9f49-aa7504f882c9",
-        "55885d42-27fe-0f23-8a56-79b3ccab3d7e",
-        "381569d7-0206-d789-04eb-4c167ecf9de8",
-        "85f2888e-b733-da26-30e4-b9b37b4e7fd9",
-        "91837a7e-2dff-2128-d2f2-ee2c7d856c7b",
-        "6106548f-1507-e81b-3640-9d64076997d3",
-        "05251244-8b6d-17e3-53ac-8301adf47772",
-        "0978c96f-19aa-6fdc-b45d-86be20400a53",
-        "a69f892b-bb4f-5623-a044-c515e427ba86",
-        "5fb9120a-240d-7713-cb52-be9fe111fb6b",
-        "6f354bcd-7f43-e44f-aecd-44c365a1dbf6",
-        "35dda15e-8bf6-5b5f-7963-d63f4bf8786c",
-        "55c9ad42-0320-c16e-35c9-f66594116886",
-        "cf091317-b26a-d1bf-a6ea-7e6db44687c2",
-        "d3655ef7-0b1a-62d1-3ca7-dcedfd83bd6e",
-        "c24c0d8e-b3bf-8bd3-46e4-30fb2efebe59",
-        "ae8f15d7-2407-135f-c6db-2c0364d2e34f",
-        "6ea2e148-76cb-bc0c-0c9c-70b575536882",
-        "78b02039-b9dc-2b98-aec4-885c911bfb3e",
-        "d61c7b27-fe20-becb-a19d-82c23632e399",
-        "dc088593-5f4f-882e-eb29-e3545c966247",
-        "ca23cf9f-1703-d360-17b3-117830b0b68d",
-        "6213bae5-a038-ecd7-9aa5-6da75f2167b5",
-        "555dcf13-06c1-9bf8-9ca8-9da0d1ab7e0c",
-        "5c83c492-c770-c0d7-a096-cd003547466c",
-        "e12f48fc-bd27-57d2-28b5-1ecb1651559e",
-        "8e06c7e2-5e5f-e98c-1e0e-ad8e81611eb7"
-      ],
-      "testRuns": [],
-      "createdOn": 1710667810163,
-      "stats": {
-        "totalCount": 40,
-        "successCount": 31,
-        "duration": "00:28:09",
-        "failCount": 9,
-        "stepsCount": 1764
-      }
-    }
-  },
   "recorder": {
     "isRecording": false,
     "testDirty": false
-  }
+  },
+  "failedImports": []
 }
